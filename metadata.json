@@ -1,11 +1,11 @@
 {
-"extension-id": "arcmenu",
-"uuid": "arcmenu@arcmenu.com",
+"extension-id": "arc-menu",
+"uuid": "arc-menu@linxgem33.com",
 "settings-schema": "org.gnome.shell.extensions.arcmenu",
-"gettext-domain": "arcmenu",
-"name": "ArcMenu",
+"gettext-domain": "arc-menu",
+"name": "Arc Menu",
 "description": "An Application Menu for GNOME",
-"version": 10.5,
+"version": 50.1,
 "shell-version": [ "40" ],
-"url": "https://gitlab.com/arcmenu/ArcMenu"
+"url": "https://gitlab.com/LinxGem33/Arc-Menu"
 }
