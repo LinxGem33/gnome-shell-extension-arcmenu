@@ -1,0 +1,2501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-03-26 16:51+0900\n"
+"PO-Revision-Date: 2021-03-26 18:25+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ../arcmenu.com.v8.shell-extension\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: constants.js:66 menuWidgets.js:1195
+msgid "Favorites"
+msgstr "즐겨찾기"
+
+#: constants.js:67 menulayouts/tweaks/tweaks.js:900
+msgid "Frequent Apps"
+msgstr "자주 사용"
+
+#: constants.js:68 menuWidgets.js:1471 menuWidgets.js:1565
+#: menulayouts/raven.js:53 menulayouts/raven.js:219
+#: menulayouts/tweaks/tweaks.js:460 menulayouts/tweaks/tweaks.js:586
+#: menulayouts/tweaks/tweaks.js:870 menulayouts/ubuntudash.js:54
+#: menulayouts/ubuntudash.js:335
+msgid "All Programs"
+msgstr "모든 프로그램"
+
+#: constants.js:69 menulayouts/plasma.js:136 menulayouts/raven.js:51
+#: menulayouts/raven.js:214 menulayouts/tweaks/tweaks.js:898
+#: menulayouts/ubuntudash.js:52 menulayouts/ubuntudash.js:330
+#: menulayouts/windows.js:504 prefs.js:40 prefs.js:5826 utils.js:102
+msgid "Pinned Apps"
+msgstr "고정된 프로그램"
+
+#: constants.js:70 menulayouts/raven.js:300 menulayouts/ubuntudash.js:423
+msgid "Recent Files"
+msgstr "최근 파일"
+
+#: constants.js:295 menuWidgets.js:3047 prefs.js:5636
+msgid "ArcMenu"
+msgstr "메뉴"
+
+#: constants.js:295
+msgid "ArcMenu Tweaks"
+msgstr "ArcMenu 기능 개선"
+
+#: constants.js:296
+msgid "Brisk Menu Style"
+msgstr "Brisk 메뉴 스타일"
+
+#: constants.js:296
+msgid "Brisk Menu Style Tweaks"
+msgstr "Brisk 메뉴 기능 개선"
+
+#: constants.js:297
+msgid "Whisker Menu Style"
+msgstr "Whisker 메뉴 스타일"
+
+#: constants.js:297
+msgid "Whisker Menu Style Tweaks"
+msgstr "Whisker 메뉴 기능 개선"
+
+#: constants.js:298
+msgid "GNOME Menu Style"
+msgstr "그놈 메뉴 스타일"
+
+#: constants.js:298
+msgid "GNOME Menu Style Tweaks"
+msgstr "메뉴 기능 개선"
+
+#: constants.js:299
+msgid "Mint Menu Style"
+msgstr "Mint 메뉴 스타일"
+
+#: constants.js:299
+msgid "Mint Menu Style Tweaks"
+msgstr "민트 메뉴 기능 개선"
+
+#: constants.js:300
+msgid "Budgie Style"
+msgstr "Budgie 스타일"
+
+#: constants.js:300
+msgid "Budgie Style Tweaks"
+msgstr "Budgie 기능 개선"
+
+#: constants.js:303
+msgid "Ubuntu Dash Style"
+msgstr "우분투 대시 스타일"
+
+#: constants.js:303
+msgid "Ubuntu Dash Style Tweaks"
+msgstr "우분투 대시 스타일 기능 개선"
+
+#: constants.js:304
+msgid "Plasma Style"
+msgstr "Plasma 스타일"
+
+#: constants.js:304
+msgid "Plasma Style Tweaks"
+msgstr "Plasma 스타일 기능 개선"
+
+#: constants.js:305
+msgid "tognee Menu"
+msgstr "tognee 메뉴"
+
+#: constants.js:305
+msgid "tognee Menu Tweaks"
+msgstr "tognee 기능 개선"
+
+#: constants.js:306
+msgid "Insider Menu"
+msgstr "Insider 메뉴"
+
+#: constants.js:306
+msgid "Insider Menu Tweaks"
+msgstr "Insider 기능 개선"
+
+#: constants.js:307
+msgid "Redmond Menu Style"
+msgstr "Redmond 메뉴 스타일"
+
+#: constants.js:307
+msgid "Redmond Menu Style Tweaks"
+msgstr "Redmond 메뉴 기능 개선"
+
+#: constants.js:308
+msgid "Windows 10 Style"
+msgstr "Windows 10 스타일"
+
+#: constants.js:308
+msgid "Windows 10 Style Tweaks"
+msgstr "Windows 10 스타일 기능 개선"
+
+#: constants.js:311
+msgid "Elementary Menu Style"
+msgstr "Elementary 메뉴 스타일"
+
+#: constants.js:311
+msgid "Elementary Menu Style Tweaks"
+msgstr "Elementary 메뉴 기능 개선"
+
+#: constants.js:312
+msgid "Chromebook Style"
+msgstr "크롬북 스타일"
+
+#: constants.js:312
+msgid "Chromebook Style Tweaks"
+msgstr "크롬북 스타일 기능 개선"
+
+#: constants.js:315
+msgid "KRunner Style"
+msgstr "KRunner 스타일"
+
+#: constants.js:315
+msgid "KRunner Style Tweaks"
+msgstr "Krunner 스타일 기능 개선"
+
+#: constants.js:316
+msgid "GNOME Dash Style"
+msgstr "그놈 대시 스타일"
+
+#: constants.js:316
+msgid "GNOME Dash Style Tweaks"
+msgstr "그놈 대시 기능 개선"
+
+#: constants.js:319 constants.js:336
+msgid "Simple Menu Style"
+msgstr "심플"
+
+#: constants.js:319
+msgid "Simple Menu Style Tweaks"
+msgstr "심플 기능 개선"
+
+#: constants.js:320
+msgid "Simple Menu 2 Style"
+msgstr "심플 2"
+
+#: constants.js:320
+msgid "Simple Menu 2 Style Tweaks"
+msgstr "심플 2 기능 개선"
+
+#: constants.js:323
+msgid "Raven Menu Style"
+msgstr "Raven 메뉴 스타일"
+
+#: constants.js:323
+msgid "Raven Menu Style Tweaks"
+msgstr "Raven 메뉴 기능 개선"
+
+#: constants.js:330
+msgid "Traditional"
+msgstr "일반적인"
+
+#: constants.js:330
+msgid "Traditional Menu Style"
+msgstr "일반적인 메뉴 스타일"
+
+#: constants.js:331
+msgid ""
+"Traditional layouts use a familiar style and have a traditional user "
+"experience."
+msgstr "친숙한 디자인으로 일반적인 사용자의 경혐을 제공합니다."
+
+#: constants.js:332
+msgid "Modern"
+msgstr "모던"
+
+#: constants.js:332
+msgid "Modern Menu Style"
+msgstr "모던 메뉴 스타일"
+
+#: constants.js:333
+msgid ""
+"Modern layouts use a style and UX based approach with a focus on design and "
+"functionality."
+msgstr "디자인과 기능에 중점을 두면서도 현대적인 스타일을 제공합니다."
+
+#: constants.js:334
+msgid "Touch"
+msgstr "터치"
+
+#: constants.js:334
+msgid "Touch Menu Style"
+msgstr "터치 메뉴 스타일"
+
+#: constants.js:335
+msgid ""
+"Touch layouts contain large menu elements that are well suited for touch "
+"based devices."
+msgstr "터치스크린 사용 기기에 알맞는 환경을 제공합니다."
+
+#: constants.js:336
+msgid "Simple"
+msgstr "심플"
+
+#: constants.js:337
+msgid ""
+"Simple layouts are designed for mouse based devices and contain simplistic "
+"menu elements."
+msgstr "마우스를 사용하는 기기를 위해 간단한 메뉴 요소를 포함합니다."
+
+#: constants.js:338
+msgid "Launcher"
+msgstr "런처"
+
+#: constants.js:338
+msgid "Launcher Menu Style"
+msgstr "런처 메뉴 스타일"
+
+#: constants.js:339
+msgid ""
+"Launcher layouts are well suited for keyboard driven devices and provide the "
+"user with quick and simple menu elements."
+msgstr ""
+
+#: constants.js:340
+msgid "Alternative"
+msgstr "변형"
+
+#: constants.js:340
+msgid "Alternative Menu Style"
+msgstr ""
+
+#: constants.js:341
+msgid ""
+"Alternative layouts have an unconventional style that provide a unique user "
+"experience."
+msgstr ""
+
+#: menuButton.js:745 menuWidgets.js:1184 menuWidgets.js:1850
+#: menulayouts/arcmenu.js:191 menulayouts/plasma.js:180
+#: menulayouts/raven.js:178 menulayouts/redmond.js:174
+#: menulayouts/tognee.js:155 menulayouts/ubuntudash.js:196
+#: menulayouts/windows.js:146 prefs.js:281 prefs.js:381 prefs.js:550
+#: prefs.js:5893
+msgid "ArcMenu Settings"
+msgstr "메뉴 설정"
+
+#: menuButton.js:755 prefs.js:5677
+msgid "ArcMenu GitLab Page"
+msgstr "ArcMenu GitLab 페이지"
+
+#: menuButton.js:772
+msgid "Dash to Panel Settings"
+msgstr "Dash to Panel 설정"
+
+#: menuButton.js:779
+msgid "Dash to Dock Settings"
+msgstr "Dash to Dock 설정"
+
+#: menuButton.js:783
+msgid "Ubuntu Dock Settings"
+msgstr "Ubuntu Dock 설정"
+
+#: menuWidgets.js:163
+msgid "Open Folder Location"
+msgstr "폴더 위치 열기"
+
+#: menuWidgets.js:179
+msgid "Current Windows:"
+msgstr "현재 창:"
+
+#: menuWidgets.js:197
+msgid "New Window"
+msgstr "새 창"
+
+#: menuWidgets.js:207
+msgid "Launch using Dedicated Graphics Card"
+msgstr ""
+
+#: menuWidgets.js:252
+msgid "Delete Desktop Shortcut"
+msgstr "바탕화면 바로가기 삭제"
+
+#: menuWidgets.js:260
+msgid "Create Desktop Shortcut"
+msgstr "바탕화면 바로가기 만들기"
+
+#: menuWidgets.js:274
+msgid "Remove from Favorites"
+msgstr "즐겨찾기에서 제거"
+
+#: menuWidgets.js:280
+msgid "Add to Favorites"
+msgstr "즐겨찾기에 추가"
+
+#: menuWidgets.js:297 menuWidgets.js:346
+msgid "Unpin from ArcMenu"
+msgstr "고정 해제"
+
+#: menuWidgets.js:311
+msgid "Pin to ArcMenu"
+msgstr "고정"
+
+#: menuWidgets.js:324
+msgid "Show Details"
+msgstr "자세히 보기"
+
+#: menuWidgets.js:726 menulayouts/arcmenu.js:191 menulayouts/plasma.js:180
+#: menulayouts/raven.js:178 menulayouts/redmond.js:174
+#: menulayouts/tognee.js:155 menulayouts/ubuntudash.js:196
+#: menulayouts/windows.js:146
+msgid "Activities Overview"
+msgstr "활동 오버뷰"
+
+#: menuWidgets.js:1174 menulayouts/arcmenu.js:191 menulayouts/insider.js:218
+#: menulayouts/mint.js:222 menulayouts/plasma.js:180 menulayouts/raven.js:178
+#: menulayouts/redmond.js:174 menulayouts/tognee.js:155
+#: menulayouts/ubuntudash.js:196 menulayouts/windows.js:146
+msgid "Settings"
+msgstr "설정"
+
+#: menuWidgets.js:1206
+msgid "Extras"
+msgstr "그 외"
+
+#: menuWidgets.js:1217 menulayouts/plasma.js:149
+msgid "Leave"
+msgstr "떠나기"
+
+#: menuWidgets.js:1228 prefs.js:5828
+msgid "Categories"
+msgstr "카테고리"
+
+#: menuWidgets.js:1238
+msgid "Users"
+msgstr "사용자"
+
+#: menuWidgets.js:1296 menulayouts/mint.js:233 menulayouts/ubuntudash.js:247
+#: prefs.js:462 prefs.js:5107
+msgid "Power Off"
+msgstr "컴퓨터 끄기"
+
+#: menuWidgets.js:1305 prefs.js:463 prefs.js:5091
+msgid "Restart"
+msgstr "다시 시작"
+
+#: menuWidgets.js:1314 menulayouts/mint.js:231 menulayouts/plasma.js:347
+#: menulayouts/ubuntudash.js:245 menulayouts/windows.js:252 prefs.js:461
+#: prefs.js:5075
+msgid "Log Out"
+msgstr "로그아웃"
+
+#: menuWidgets.js:1323 menulayouts/plasma.js:353 menulayouts/windows.js:258
+#: prefs.js:464 prefs.js:5043
+msgid "Suspend"
+msgstr "절전"
+
+#: menuWidgets.js:1332 menulayouts/mint.js:232 menulayouts/plasma.js:343
+#: menulayouts/ubuntudash.js:246 menulayouts/windows.js:249 prefs.js:460
+#: prefs.js:5059
+msgid "Lock"
+msgstr "잠금"
+
+#: menuWidgets.js:1515 prefs.js:2657
+msgid "Back"
+msgstr "뒤로"
+
+#: menuWidgets.js:1853 menulayouts/arcmenu.js:191 menulayouts/mint.js:221
+#: menulayouts/plasma.js:180 menulayouts/raven.js:178
+#: menulayouts/redmond.js:174 menulayouts/tognee.js:155
+#: menulayouts/ubuntudash.js:196 menulayouts/windows.js:146
+msgid "Terminal"
+msgstr "터미널"
+
+#: menuWidgets.js:2110
+msgid "New"
+msgstr "추가됨"
+
+#: menuWidgets.js:2754 prefs.js:250
+msgid "Type to search…"
+msgstr "검색…"
+
+#: menuWidgets.js:2930 menulayouts/plasma.js:141 prefs.js:5835
+msgid "Applications"
+msgstr "프로그램"
+
+#: menuWidgets.js:3035
+msgid "Show Applications"
+msgstr "프로그램 보기"
+
+#: menuWidgets.js:3241
+msgid "Add world clocks…"
+msgstr "세계시각 추가…"
+
+#: menuWidgets.js:3242
+msgid "World Clocks"
+msgstr "세계시각"
+
+#: menuWidgets.js:3350
+msgid "Weather"
+msgstr "날씨"
+
+#: menuWidgets.js:3470
+msgid "Select a location…"
+msgstr "지역 선택…"
+
+#: menuWidgets.js:3483
+msgid "Loading…"
+msgstr "로딩 중…"
+
+#: menuWidgets.js:3493
+msgid "Go online for weather information"
+msgstr "온라인에서 날씨 정보 찾기"
+
+#: menuWidgets.js:3495
+msgid "Weather information is currently unavailable"
+msgstr "날씨 정보를 찾을 수 없음"
+
+#: menulayouts/arcmenu.js:191 menulayouts/baseMenuLayout.js:464
+#: menulayouts/baseMenuLayout.js:466 menulayouts/mint.js:226
+#: menulayouts/plasma.js:180 menulayouts/raven.js:178
+#: menulayouts/redmond.js:174 menulayouts/tognee.js:155
+#: menulayouts/ubuntudash.js:196 menulayouts/ubuntudash.js:240
+#: menulayouts/windows.js:146
+msgid "Software"
+msgstr "소프트웨어"
+
+#: menulayouts/arcmenu.js:191 menulayouts/plasma.js:180
+#: menulayouts/raven.js:178 menulayouts/redmond.js:174
+#: menulayouts/tognee.js:155 menulayouts/ubuntudash.js:196
+#: menulayouts/windows.js:146
+msgid "Tweaks"
+msgstr "기능 개선"
+
+#: menulayouts/baseMenuLayout.js:396 menulayouts/baseMenuLayout.js:436
+#: menulayouts/ubuntudash.js:234 placeDisplay.js:447
+msgid "Home"
+msgstr "홈"
+
+#: menulayouts/baseMenuLayout.js:396 menulayouts/insider.js:70
+#: menulayouts/insider.js:213 menulayouts/mint.js:228
+#: menulayouts/ubuntudash.js:235 menulayouts/windows.js:71
+msgid "Documents"
+msgstr "문서"
+
+#: menulayouts/baseMenuLayout.js:396 menulayouts/ubuntudash.js:236
+msgid "Downloads"
+msgstr "다운로드"
+
+#: menulayouts/baseMenuLayout.js:396
+msgid "Music"
+msgstr "음악"
+
+#: menulayouts/baseMenuLayout.js:396
+msgid "Pictures"
+msgstr "사진"
+
+#: menulayouts/baseMenuLayout.js:396
+msgid "Videos"
+msgstr "비디오"
+
+#: menulayouts/baseMenuLayout.js:396 menulayouts/plasma.js:145
+#: menulayouts/ubuntudash.js:242 placeDisplay.js:232 placeDisplay.js:256
+#: prefs.js:329 prefs.js:457
+msgid "Computer"
+msgstr "컴퓨터"
+
+#: menulayouts/baseMenuLayout.js:396 menulayouts/baseMenuLayout.js:452
+#: menulayouts/plasma.js:307 menulayouts/windows.js:208 prefs.js:330
+#: prefs.js:458
+msgid "Network"
+msgstr "네트워크"
+
+#: menulayouts/baseMenuLayout.js:472 menulayouts/baseMenuLayout.js:474
+#: placeDisplay.js:717 prefs.js:331 prefs.js:459
+msgid "Trash"
+msgstr "휴지통"
+
+#: menulayouts/mint.js:230 menulayouts/ubuntudash.js:244
+msgid "Files"
+msgstr "파일"
+
+#: menulayouts/plasma.js:276 menulayouts/windows.js:331
+msgid "Application Shortcuts"
+msgstr "프로그램 바로가기"
+
+#: menulayouts/plasma.js:280 menulayouts/windows.js:335
+msgid "Places"
+msgstr "위치"
+
+#: menulayouts/plasma.js:291 menulayouts/windows.js:192 prefs.js:5170
+msgid "Bookmarks"
+msgstr "북마크"
+
+#: menulayouts/plasma.js:299 menulayouts/windows.js:200
+msgid "Devices"
+msgstr "장치"
+
+#: menulayouts/plasma.js:341 menulayouts/windows.js:247
+msgid "Session"
+msgstr "세션"
+
+#: menulayouts/plasma.js:350 menulayouts/windows.js:256
+msgid "System"
+msgstr "시스템"
+
+#: menulayouts/plasma.js:357 menulayouts/windows.js:262
+msgid "Restart..."
+msgstr "다시 시작..."
+
+#: menulayouts/plasma.js:361 menulayouts/windows.js:266
+msgid "Power Off..."
+msgstr "종료..."
+
+#: menulayouts/raven.js:329 menulayouts/ubuntudash.js:452 prefs.js:5827
+msgid "Shortcuts"
+msgstr "바로가기"
+
+#: menulayouts/tweaks/tweaks.js:87
+msgid "Category Activation"
+msgstr "카테고리 활성화"
+
+#: menulayouts/tweaks/tweaks.js:93
+msgid "Mouse Click"
+msgstr "마우스 클릭"
+
+#: menulayouts/tweaks/tweaks.js:94
+msgid "Mouse Hover"
+msgstr "마우스 올리기"
+
+#: menulayouts/tweaks/tweaks.js:113
+msgid "Avatar Icon Shape"
+msgstr "사용자 그림 모양"
+
+#: menulayouts/tweaks/tweaks.js:118
+msgid "Circular"
+msgstr "원형"
+
+#: menulayouts/tweaks/tweaks.js:119
+msgid "Square"
+msgstr "사각형"
+
+#: menulayouts/tweaks/tweaks.js:134 menulayouts/tweaks/tweaks.js:212
+msgid "Searchbar Location"
+msgstr "검색 바 위치"
+
+#: menulayouts/tweaks/tweaks.js:140 menulayouts/tweaks/tweaks.js:218
+msgid "Bottom"
+msgstr "아래"
+
+#: menulayouts/tweaks/tweaks.js:141 menulayouts/tweaks/tweaks.js:219
+#: menulayouts/tweaks/tweaks.js:410
+msgid "Top"
+msgstr "위"
+
+#: menulayouts/tweaks/tweaks.js:154
+msgid "Flip Layout Horizontally"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:171
+msgid "Disable User Avatar"
+msgstr "사용자 사진 숨기기"
+
+#: menulayouts/tweaks/tweaks.js:189
+msgid "Show Applications Grid"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:231
+msgid "Activate on Hover"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:247
+msgid "Show Application Descriptions"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:263
+msgid "Selected Button Border Color"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:281
+msgid "Selected Button Background Color"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:300 prefs.js:1839 prefs.js:3070 prefs.js:3403
+#: prefs.js:3492 prefs.js:4446 prefs.js:4592 prefs.js:4818
+msgid "Restore Defaults"
+msgstr "기본값으로 복원"
+
+#: menulayouts/tweaks/tweaks.js:301 prefs.js:1840 prefs.js:3071 prefs.js:3404
+#: prefs.js:3493 prefs.js:4447 prefs.js:4593 prefs.js:4819
+msgid "Restore the default settings on this page"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:339 menulayouts/tweaks/tweaks.js:504
+#: menulayouts/tweaks/tweaks.js:642
+msgid "Save"
+msgstr "저장"
+
+#: menulayouts/tweaks/tweaks.js:358
+msgid "Brisk Menu Shortcuts"
+msgstr "Brisk 메뉴 바로가기"
+
+#: menulayouts/tweaks/tweaks.js:386
+msgid "Enable Activities Overview Shortcut"
+msgstr "활동 오버뷰 바로가기 사용"
+
+#: menulayouts/tweaks/tweaks.js:405
+msgid "KRunner Position"
+msgstr "KRunner 위치"
+
+#: menulayouts/tweaks/tweaks.js:411
+msgid "Centered"
+msgstr "가운데"
+
+#: menulayouts/tweaks/tweaks.js:422 menulayouts/tweaks/tweaks.js:601
+msgid "Show Extra Large Icons with App Descriptions"
+msgstr "프로그램 설명과 함께 큰 아이콘 보기"
+
+#: menulayouts/tweaks/tweaks.js:443 prefs.js:755 prefs.js:5814
+msgid "General"
+msgstr "일반"
+
+#: menulayouts/tweaks/tweaks.js:446
+msgid "Buttons"
+msgstr "버튼"
+
+#: menulayouts/tweaks/tweaks.js:454 menulayouts/tweaks/tweaks.js:580
+#: menulayouts/tweaks/tweaks.js:860 menulayouts/tweaks/tweaks.js:889
+msgid "Default Screen"
+msgstr "기본 화면"
+
+#: menulayouts/tweaks/tweaks.js:459 menulayouts/tweaks/tweaks.js:585
+#: utils.js:88
+msgid "Home Screen"
+msgstr "홈 화면"
+
+#: menulayouts/tweaks/tweaks.js:475 prefs.js:3218
+msgid "Disable Menu Arrow"
+msgstr "메뉴 화살표 숨기기"
+
+#: menulayouts/tweaks/tweaks.js:483 prefs.js:3226
+msgid "Disable current theme menu arrow pointer"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:523
+msgid "Ubuntu Dash Buttons"
+msgstr "우분투 대시 버튼"
+
+#: menulayouts/tweaks/tweaks.js:532
+msgid "Button Separator Position"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:541 menulayouts/tweaks/tweaks.js:673
+msgid "Separator Position"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:551 menulayouts/tweaks/tweaks.js:683
+#: prefs.js:893
+msgid "None"
+msgstr "없음"
+
+#: menulayouts/tweaks/tweaks.js:562 menulayouts/tweaks/tweaks.js:694
+msgid "Adjust the position of the separator in the button panel"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:630
+msgid "Mint Menu Shortcuts"
+msgstr "Mint 메뉴 바로가기"
+
+#: menulayouts/tweaks/tweaks.js:664
+msgid "Shortcut Separator Position"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:846
+msgid "Nothing Yet!"
+msgstr "아직 없음!"
+
+#: menulayouts/tweaks/tweaks.js:867
+msgid "Choose the default screen for tognee Layout"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:869 menulayouts/tweaks/tweaks.js:899
+msgid "Categories List"
+msgstr "카테고리 목록"
+
+#: menulayouts/tweaks/tweaks.js:896
+msgid "Choose the default screen for ArcMenu"
+msgstr "메뉴에 사용할 기본 화면 선택"
+
+#: menulayouts/tweaks/tweaks.js:932
+msgid "Enable Weather Widget"
+msgstr "날씨 위젯 활성화"
+
+#: menulayouts/tweaks/tweaks.js:950
+msgid "Enable Clock Widget"
+msgstr "시계 위젯 활성화"
+
+#: menulayouts/windows.js:433
+msgid "Frequent"
+msgstr "자주 사용"
+
+#: placeDisplay.js:133
+#, javascript-format
+msgid "Failed to launch “%s”"
+msgstr "“%s”(을)를 실행하지 못했습니다"
+
+#: placeDisplay.js:148
+#, javascript-format
+msgid "Failed to mount volume for “%s”"
+msgstr "\"%s\"를 마운트하지 못했습니다"
+
+#: placeDisplay.js:321
+#, javascript-format
+msgid "Ejecting drive “%s” failed:"
+msgstr "“%s” 제거 실패:"
+
+#: placeDisplay.js:727 placeDisplay.js:733
+msgid "Empty Trash"
+msgstr "휴지통 비우기"
+
+#: prefs.js:51 prefs.js:722 prefs.js:1359 prefs.js:1543 prefs.js:2641
+#: prefs.js:3101 prefs.js:3433 prefs.js:3496 prefs.js:3797 prefs.js:4498
+#: prefs.js:4596 prefs.js:4822
+msgid "Apply"
+msgstr "적용"
+
+#: prefs.js:64 prefs.js:4832
+msgid "Add More Apps"
+msgstr "더 많은 앱 추가"
+
+#: prefs.js:71
+msgid "Browse a list of all applications to add to your Pinned Apps list."
+msgstr "고정된 앱 목록에 추가할 앱을 찾습니다."
+
+#: prefs.js:102 prefs.js:4642 prefs.js:4868
+msgid "Add Custom Shortcut"
+msgstr "커스텀 바로가기 추가"
+
+#: prefs.js:109
+msgid "Create a custom shortcut to add to your Pinned Apps list."
+msgstr "고정된 앱 목록에 추가할 커스텀 바로가기를 만듭니다."
+
+#: prefs.js:237
+msgid "Add to your Pinned Apps"
+msgstr "고정된 프로그램에 추가"
+
+#: prefs.js:239
+msgid "Change Selected Pinned App"
+msgstr "선택된 고정된 프로그램 바꾸기"
+
+#: prefs.js:241
+msgid "Select Application Shortcuts"
+msgstr "앱 바로가기 선택"
+
+#: prefs.js:243
+msgid "Select Directory Shortcuts"
+msgstr "경로 바로가기 선택"
+
+#: prefs.js:309 prefs.js:722
+msgid "Add"
+msgstr "추가"
+
+#: prefs.js:382 prefs.js:1309
+msgid "Run Command..."
+msgstr "명령 실행..."
+
+#: prefs.js:383
+msgid "Show All Applications"
+msgstr "모든 앱 표시"
+
+#: prefs.js:432
+msgid "Default Apps"
+msgstr "기본 앱"
+
+#: prefs.js:436 prefs.js:514
+msgid "System Apps"
+msgstr "시스템 앱"
+
+#: prefs.js:510
+msgid "Presets"
+msgstr "프리셋"
+
+#: prefs.js:630 prefs.js:632
+msgid "Edit Pinned App"
+msgstr "고정된 앱 편집"
+
+#: prefs.js:630 prefs.js:632 prefs.js:634 prefs.js:636
+msgid "Add a Custom Shortcut"
+msgstr "커스텀 바로가기 추가"
+
+#: prefs.js:634
+msgid "Edit Shortcut"
+msgstr "바로가기 편집"
+
+#: prefs.js:636
+msgid "Edit Custom Shortcut"
+msgstr "커스텀 바로가기 편집"
+
+#: prefs.js:643
+msgid "Shortcut Name:"
+msgstr "바로가기 이름:"
+
+#: prefs.js:658
+msgid "Icon:"
+msgstr "아이콘:"
+
+#: prefs.js:670
+msgid "Browse..."
+msgstr "찾기..."
+
+#: prefs.js:675 prefs.js:2133 prefs.js:2141 prefs.js:2145
+msgid "Select an Icon"
+msgstr "아이콘 선택"
+
+#: prefs.js:707
+msgid "Terminal Command:"
+msgstr "터미널 명령어:"
+
+#: prefs.js:714
+msgid "Shortcut Path:"
+msgstr "바로가기 위치:"
+
+#: prefs.js:759
+msgid "Panel and Dock Options"
+msgstr "패널과 독 옵션"
+
+#: prefs.js:776
+msgid "Activities Hot Corner Options"
+msgstr "활동 핫 코너 옵션"
+
+#: prefs.js:786 prefs.js:1256
+msgid "Modify Activities Hot Corner"
+msgstr ""
+
+#: prefs.js:794
+msgid "Modify the action of the Activities Hot Corner"
+msgstr ""
+
+#: prefs.js:806
+msgid "Override the default behavoir of the Activities Hot Corner"
+msgstr ""
+
+#: prefs.js:825
+msgid "Hotkey activation"
+msgstr "단축 키 활성"
+
+#: prefs.js:832
+msgid "Choose a method for the hotkey activation"
+msgstr ""
+
+#: prefs.js:834
+msgid "Key Release"
+msgstr "키 떼기"
+
+#: prefs.js:835
+msgid "Key Press"
+msgstr "키 누르기"
+
+#: prefs.js:851
+msgid "Hotkey Options"
+msgstr "단축키 설정"
+
+#: prefs.js:861
+msgid "Choose a Hotkey for ArcMenu"
+msgstr "메뉴를 표시할 때 사용할 단축키 선택"
+
+#: prefs.js:870
+msgid "Left Super Key"
+msgstr "왼쪽 Super 키"
+
+#: prefs.js:873
+msgid "Set ArcMenu hotkey to Left Super Key"
+msgstr "왼쪽 Super 키로 메뉴를 불러옵니다."
+
+#: prefs.js:877
+msgid "Right Super Key"
+msgstr "오른쪽 Super 키"
+
+#: prefs.js:881
+msgid "Set ArcMenu hotkey to Right Super Key"
+msgstr "오른쪽 Super 키로 메뉴를 불러옵니다."
+
+#: prefs.js:885
+msgid "Custom Hotkey"
+msgstr "단축 키 설정"
+
+#: prefs.js:889
+msgid "Set a custom hotkey for ArcMenu"
+msgstr ""
+
+#: prefs.js:897
+msgid "Clear ArcMenu hotkey, use GNOME default"
+msgstr ""
+
+#: prefs.js:958
+msgid "Current Hotkey"
+msgstr "현재 단축 키"
+
+#: prefs.js:967
+msgid "Current custom hotkey"
+msgstr "현재 커스텀 단축 키"
+
+#: prefs.js:972
+msgid "Modify Hotkey"
+msgstr "단축 키 설정"
+
+#: prefs.js:975
+msgid "Create your own hotkey combination for ArcMenu"
+msgstr ""
+
+#: prefs.js:1009
+msgid "Display ArcMenu On"
+msgstr "ArcMenu 표시하기"
+
+#: prefs.js:1016
+msgid "Choose where to place ArcMenu"
+msgstr ""
+
+#: prefs.js:1020
+msgid "Dash to Dock"
+msgstr ""
+
+#: prefs.js:1024
+msgid "Ubuntu Dock"
+msgstr ""
+
+#: prefs.js:1027
+msgid "Main Panel"
+msgstr "상단 패널"
+
+#: prefs.js:1028
+msgid "Dash to Panel"
+msgstr "Dash to Panel"
+
+#: prefs.js:1037
+msgid "Disable Activities Button"
+msgstr "활동 버튼 숨기기"
+
+#: prefs.js:1038
+msgid "Dash to Dock extension not running!"
+msgstr ""
+
+#: prefs.js:1038
+msgid "Enable Dash to Dock for this feature to work."
+msgstr ""
+
+#: prefs.js:1046 schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:402
+msgid "Disable Activities Button in panel"
+msgstr ""
+
+#: prefs.js:1074
+msgid "Main Panel not found!"
+msgstr "메인 패널이 없습니다!"
+
+#: prefs.js:1075
+msgid "Dash to Panel extension not running!"
+msgstr ""
+
+#: prefs.js:1075
+msgid "Enable Dash to Panel for this feature to work."
+msgstr ""
+
+#: prefs.js:1095
+msgid "Position in panel"
+msgstr "패널 내 위치"
+
+#: prefs.js:1102 prefs.js:1151
+msgid "Left"
+msgstr "왼쪽"
+
+#: prefs.js:1103
+msgid "Position ArcMenu on the left side of the panel"
+msgstr ""
+
+#: prefs.js:1107 prefs.js:1152
+msgid "Center"
+msgstr "가운데"
+
+#: prefs.js:1109
+msgid "Position ArcMenu in the center of the panel"
+msgstr ""
+
+#: prefs.js:1113 prefs.js:1153
+msgid "Right"
+msgstr "오른쪽"
+
+#: prefs.js:1115
+msgid "Position ArcMenu on the right side of the panel"
+msgstr "패널 오른쪽에 메뉴 위치"
+
+#: prefs.js:1139
+msgid "Menu Alignment"
+msgstr ""
+
+#: prefs.js:1148
+msgid "Adjust ArcMenu's menu alignment relative to ArcMenu's icon"
+msgstr ""
+
+#: prefs.js:1164 prefs.js:1172
+msgid "Display ArcMenu on all monitors"
+msgstr ""
+
+#: prefs.js:1264
+msgid "Activities Hot Corner Action"
+msgstr ""
+
+#: prefs.js:1271
+msgid "Choose the action of the Activities Hot Corner"
+msgstr ""
+
+#: prefs.js:1273
+msgid "GNOME Default"
+msgstr "그놈 기본"
+
+#: prefs.js:1274
+msgid "Disabled"
+msgstr "사용하지 않음"
+
+#: prefs.js:1275
+msgid "Toggle ArcMenu"
+msgstr ""
+
+#: prefs.js:1276
+msgid "Custom"
+msgstr "커스텀"
+
+#: prefs.js:1282
+msgid "Custom Activities Hot Corner Action"
+msgstr ""
+
+#: prefs.js:1282
+msgid "Choose from a list of preset commands or use your own terminal command"
+msgstr ""
+
+#: prefs.js:1292
+msgid "Preset commands"
+msgstr ""
+
+#: prefs.js:1298
+msgid "Choose from a list of preset Activities Hot Corner commands"
+msgstr ""
+
+#: prefs.js:1302
+msgid "Show all Applications"
+msgstr "모든 앱 표시"
+
+#: prefs.js:1303
+msgid "GNOME Terminal"
+msgstr "터미널"
+
+#: prefs.js:1304
+msgid "GNOME System Monitor"
+msgstr "시스템 감시"
+
+#: prefs.js:1305
+msgid "GNOME Calculator"
+msgstr "계산기"
+
+#: prefs.js:1306
+msgid "GNOME gedit"
+msgstr "텍스트 편집기"
+
+#: prefs.js:1307
+msgid "GNOME Screenshot"
+msgstr "스크린샷"
+
+#: prefs.js:1308
+msgid "GNOME Weather"
+msgstr "날씨"
+
+#: prefs.js:1333
+msgid "Terminal Command"
+msgstr "터미널 명령어"
+
+#: prefs.js:1339
+msgid "Set a custom terminal command to launch on active hot corner"
+msgstr ""
+
+#: prefs.js:1361
+msgid "Apply changes and set new hot corner action"
+msgstr ""
+
+#: prefs.js:1425
+msgid "Set Custom Hotkey"
+msgstr "커스텀 단축 키 설정"
+
+#: prefs.js:1433
+msgid "Choose Modifiers"
+msgstr ""
+
+#: prefs.js:1449
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: prefs.js:1452
+msgid "Super"
+msgstr "Super"
+
+#: prefs.js:1455
+msgid "Shift"
+msgstr "Shift"
+
+#: prefs.js:1458
+msgid "Alt"
+msgstr "Alt"
+
+#: prefs.js:1509
+msgid "Press any key"
+msgstr "아무 키나 누르십시오"
+
+#: prefs.js:1528
+msgid "New Hotkey"
+msgstr "새 단축 키"
+
+#: prefs.js:1606
+msgid "Menu Button Appearance"
+msgstr "메뉴 버튼 모양"
+
+#: prefs.js:1616
+msgid "Appearance"
+msgstr "모양"
+
+#: prefs.js:1622 prefs.js:1777
+msgid "Icon"
+msgstr "아이콘"
+
+#: prefs.js:1623 prefs.js:1725
+msgid "Text"
+msgstr "텍스트"
+
+#: prefs.js:1624
+msgid "Icon and Text"
+msgstr "아이콘과 텍스트"
+
+#: prefs.js:1625
+msgid "Text and Icon"
+msgstr "텍스트와 아이콘"
+
+#: prefs.js:1626
+msgid "Hidden"
+msgstr "숨김"
+
+#: prefs.js:1656
+msgid "Show Arrow"
+msgstr "화살표 표시"
+
+#: prefs.js:1676
+msgid "Menu Button Padding"
+msgstr "메뉴 버튼 위치"
+
+#: prefs.js:1697
+msgid "Default"
+msgstr "기본"
+
+#: prefs.js:1708
+msgid "Change the padding of the Menu Button"
+msgstr "메뉴 버튼 위치 변경"
+
+#: prefs.js:1709
+msgid ""
+"You may need to hover over the Menu Button for the changes to take effect."
+msgstr ""
+
+#: prefs.js:1747
+msgid "Restore Activities Button"
+msgstr "활동 버튼 복원"
+
+#: prefs.js:1755 schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:397
+msgid "Restore Activities Button in panel"
+msgstr "패널의 활동 버튼 복원"
+
+#: prefs.js:1767
+msgid "Icon Appearance"
+msgstr "아이콘 모양"
+
+#: prefs.js:1784
+msgid "Browse Icons"
+msgstr "아이콘 찾기"
+
+#: prefs.js:1787
+msgid "Choose from a variety of icons"
+msgstr "다양한 아이콘 중 선택"
+
+#: prefs.js:1805
+msgid "Icon Size"
+msgstr "아이콘 크기"
+
+#: prefs.js:1848
+msgid "Menu Button Styling"
+msgstr "메뉴 버튼 스타일"
+
+#: prefs.js:1859
+msgid "Color"
+msgstr "색"
+
+#: prefs.js:1866
+msgid "Hover Color"
+msgstr ""
+
+#: prefs.js:1873
+msgid "Active Color"
+msgstr ""
+
+#: prefs.js:1880
+msgid "Hover Background Color"
+msgstr ""
+
+#: prefs.js:1887
+msgid "Active Background Color"
+msgstr ""
+
+#: prefs.js:1894
+msgid "Disable Active Indicator"
+msgstr ""
+
+#: prefs.js:1980
+msgid "Override Theme Color"
+msgstr ""
+
+#: prefs.js:2044 prefs.js:2180
+msgid "ArcMenu Icons"
+msgstr "ArcMenu 아이콘"
+
+#: prefs.js:2126
+msgid "Browse for a Custom Icon"
+msgstr "커스텀 아이콘 찾기"
+
+#: prefs.js:2181
+msgid "Distro Icons"
+msgstr "배포판 아이콘"
+
+#: prefs.js:2182
+msgid "Custom Icon"
+msgstr "커스텀 아이콘"
+
+#: prefs.js:2247
+msgid "Legal disclaimer for Distro Icons..."
+msgstr ""
+
+#: prefs.js:2329
+msgid "Current Menu Layout"
+msgstr "현재 레이아웃"
+
+#: prefs.js:2335
+msgid "Choose New Layout"
+msgstr "새 레이아웃 선택"
+
+#: prefs.js:2368
+msgid "Tweaks for the current menu layout"
+msgstr ""
+
+#: prefs.js:2502
+msgid "Enable Custom Menu Theme"
+msgstr "커스텀 메뉴 테마 사용"
+
+#: prefs.js:2512
+msgid "Override Menu Theme"
+msgstr "메뉴 테마 무시"
+
+#: prefs.js:2520
+msgid "Override the ArcMenu extension theme"
+msgstr ""
+
+#: prefs.js:2666
+msgid "Menu Layouts"
+msgstr "메뉴 레이아웃"
+
+#: prefs.js:2752 schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:307
+msgid "Menu Height"
+msgstr "메뉴 높이"
+
+#: prefs.js:2767
+msgid "Adjust the menu height"
+msgstr ""
+
+#: prefs.js:2767 prefs.js:2815 prefs.js:2861 prefs.js:2908 prefs.js:2930
+#: prefs.js:2979 prefs.js:3178
+msgid "Certain menu layouts only"
+msgstr ""
+
+#: prefs.js:2806
+msgid "Left-Panel Width"
+msgstr ""
+
+#: prefs.js:2815
+msgid "Adjust the left-panel width"
+msgstr ""
+
+#: prefs.js:2852
+msgid "Right-Panel Width"
+msgstr ""
+
+#: prefs.js:2861
+msgid "Adjust the right-panel width"
+msgstr ""
+
+#: prefs.js:2900
+msgid "Large Application Icons"
+msgstr ""
+
+#: prefs.js:2908
+msgid "Enable large application icons"
+msgstr ""
+
+#: prefs.js:2922
+msgid "Category Sub Menus"
+msgstr ""
+
+#: prefs.js:2930
+msgid "Show nested menus in categories"
+msgstr ""
+
+#: prefs.js:2946
+msgid "Disable Tooltips"
+msgstr ""
+
+#: prefs.js:2954
+msgid "Disable all tooltips in ArcMenu"
+msgstr ""
+
+#: prefs.js:2971 prefs.js:4398
+msgid "Enable Vertical Separator"
+msgstr ""
+
+#: prefs.js:2979
+msgid "Enable a Vertical Separator"
+msgstr ""
+
+#: prefs.js:2993 prefs.js:4420
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:252
+msgid "Separator Color"
+msgstr ""
+
+#: prefs.js:3001
+msgid "Change the color of all separators"
+msgstr ""
+
+#: prefs.js:3019 prefs.js:3027
+msgid "Disable Recently Installed Apps Indicator"
+msgstr ""
+
+#: prefs.js:3042
+msgid "Clear all Applications Marked \"New\""
+msgstr ""
+
+#: prefs.js:3050
+msgid "Clear All"
+msgstr "모두 제거"
+
+#: prefs.js:3051
+msgid "Clear all applications marked \"New\""
+msgstr ""
+
+#: prefs.js:3170
+msgid "Disable Category Arrows"
+msgstr ""
+
+#: prefs.js:3178
+msgid "Disable the arrow on category menu items"
+msgstr ""
+
+#: prefs.js:3194
+msgid "Disable Searchbox Border"
+msgstr ""
+
+#: prefs.js:3202
+msgid "Disable the border on the searchbox"
+msgstr ""
+
+#: prefs.js:3242
+msgid "Alphabetize 'All Programs' Category"
+msgstr ""
+
+#: prefs.js:3262 prefs.js:3279
+msgid "Multi-Lined Labels"
+msgstr ""
+
+#: prefs.js:3280
+msgid "Enable/Disable multi-lined labels on large application icon layouts."
+msgstr ""
+
+#: prefs.js:3296
+msgid "Recently Installed Application Indicators"
+msgstr ""
+
+#: prefs.js:3307
+msgid "Category Indicator Color"
+msgstr ""
+
+#: prefs.js:3315
+msgid ""
+"Change the color of the 'recently installed application' category indicator"
+msgstr ""
+
+#: prefs.js:3331
+msgid "Application Indicator Label Color"
+msgstr ""
+
+#: prefs.js:3339
+msgid ""
+"Change the background color of the 'recently installed application' "
+"indicator label"
+msgstr ""
+
+#: prefs.js:3357 schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:322
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:323
+msgid "Gap Adjustment"
+msgstr ""
+
+#: prefs.js:3369 prefs.js:3384
+msgid "Offset ArcMenu by 1px"
+msgstr ""
+
+#: prefs.js:3369 prefs.js:3385
+msgid "Useful if you notice a 1px gap or overlap between ArcMenu and the panel"
+msgstr ""
+
+#: prefs.js:3590 prefsWidgets.js:410
+msgid "Enable/Disble"
+msgstr "활성화/비활성화"
+
+#: prefs.js:3617
+msgid "Color Theme Name"
+msgstr "색상 테마 이름"
+
+#: prefs.js:3623
+msgid "Name:"
+msgstr "이름:"
+
+#: prefs.js:3647
+msgid "Save Theme"
+msgstr "테마 저장"
+
+#: prefs.js:3671
+msgid "Select Themes to Import"
+msgstr "불러올 테마 선택"
+
+#: prefs.js:3671
+msgid "Select Themes to Export"
+msgstr "내보낼 테마 선택"
+
+#: prefs.js:3687
+msgid "Import"
+msgstr "불러오기"
+
+#: prefs.js:3687
+msgid "Export"
+msgstr "내보내기"
+
+#: prefs.js:3716
+msgid "Select All"
+msgstr "모두 선택"
+
+#: prefs.js:3783 prefs.js:4068
+msgid "Manage Presets"
+msgstr "프리셋 관리"
+
+#: prefs.js:3947 prefs.js:5296
+msgid "Menu Theme Presets"
+msgstr "메뉴 테마 프리셋"
+
+#: prefs.js:3957
+msgid "Current Menu Theme Preset"
+msgstr "현재 프리셋"
+
+#: prefs.js:3977
+msgid "Save as Preset"
+msgstr "프리셋으로 저장"
+
+#: prefs.js:4090
+msgid "Browse Presets"
+msgstr "프리셋 찾기"
+
+#: prefs.js:4135
+msgid "Theme Settings"
+msgstr "테마 설정"
+
+#: prefs.js:4153 schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:257
+msgid "Menu Background Color"
+msgstr ""
+
+#: prefs.js:4175 schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:262
+msgid "Menu Foreground Color"
+msgstr ""
+
+#: prefs.js:4196
+msgid "Font Size"
+msgstr "글꼴 크기"
+
+#: prefs.js:4224 schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:267
+msgid "Border Color"
+msgstr "테두리 색"
+
+#: prefs.js:4246
+msgid "Border Size"
+msgstr "테두리 크기"
+
+#: prefs.js:4273
+msgid "Active Item Background Color"
+msgstr ""
+
+#: prefs.js:4295
+msgid "Active Item Foreground Color"
+msgstr ""
+
+#: prefs.js:4317
+msgid "Corner Radius"
+msgstr ""
+
+#: prefs.js:4344
+msgid "Menu Arrow Size"
+msgstr "메뉴 화살표 크기"
+
+#: prefs.js:4371
+msgid "Menu Displacement"
+msgstr ""
+
+#: prefs.js:4606
+msgid "Add Default User Directories"
+msgstr "기본 사용자 경로 추가"
+
+#: prefs.js:4613
+msgid ""
+"Browse a list of all default User Directories to add to your Directories "
+"Shortcuts"
+msgstr ""
+
+#: prefs.js:4649
+msgid "Create a custom shortcut to add to your Directories Shortcuts"
+msgstr ""
+
+#: prefs.js:4839
+msgid "Browse a list of all applications to add to your Application Shortcuts"
+msgstr ""
+
+#: prefs.js:4875
+msgid "Create a custom shortcut to add to your Application Shortcuts"
+msgstr ""
+
+#: prefs.js:5151
+msgid "External Devices"
+msgstr "외부 장치"
+
+#: prefs.js:5157
+msgid "Show all connected external devices in ArcMenu"
+msgstr "연결되어 있는 외장 장치를 모두 표시"
+
+#: prefs.js:5176
+msgid "Show all Nautilus bookmarks in ArcMenu"
+msgstr "ArcMenu에서 모든 북마크 표시"
+
+#: prefs.js:5193 prefs.js:5819
+msgid "Misc"
+msgstr "기타"
+
+#: prefs.js:5197
+msgid "Export or Import Settings"
+msgstr "설정 불러오거나 내보내기"
+
+#: prefs.js:5207
+msgid "All ArcMenu Settings"
+msgstr "모든 설정"
+
+#: prefs.js:5218
+msgid "Export or Import All ArcMenu Settings"
+msgstr "모든 설정을 불러오거나 내보냄"
+
+#: prefs.js:5219
+msgid ""
+"Importing settings from file may replace ALL saved settings.\n"
+"This includes all saved pinned apps."
+msgstr ""
+"파일로부터 설정을 불러오면 기존의 설정이 대체됩니다.\n"
+"모든 설정이 포함됩니다."
+
+#: prefs.js:5229
+msgid "Import from File"
+msgstr "파일에서 불러오기"
+
+#: prefs.js:5232
+msgid "Import ArcMenu settings from a file"
+msgstr "파일에서 설정 불러오기"
+
+#: prefs.js:5236
+msgid "Import settings"
+msgstr "설정 불러오기"
+
+#: prefs.js:5265
+msgid "Export to File"
+msgstr "파일로 내보내기"
+
+#: prefs.js:5268
+msgid "Export and save all your ArcMenu settings to a file"
+msgstr "모든 설정을 내보낸 후 파일로 저장하기"
+
+#: prefs.js:5272
+msgid "Export settings"
+msgstr "설정 내보내기"
+
+#: prefs.js:5307
+msgid "Export or Import Menu Theme Presets"
+msgstr "메뉴 테마 프리셋을 내보내거나 불러오기"
+
+#: prefs.js:5308
+msgid "Menu theme presets are located in the \"Menu Theme\" section"
+msgstr "메뉴 테마 프리셋은 메뉴 테마 영역에 위치해 있습니다."
+
+#: prefs.js:5318 prefs.js:5325
+msgid "Import Theme Preset"
+msgstr "테마 프리셋 불러오기"
+
+#: prefs.js:5321
+msgid "Import ArcMenu Theme Presets from a file"
+msgstr "테마 프리셋을 파일로부터 불러옵니다."
+
+#: prefs.js:5361 prefs.js:5373
+msgid "Export Theme Preset"
+msgstr "테마 프리셋 내보내기"
+
+#: prefs.js:5364
+msgid "Export and save your ArcMenu Theme Presets to a file"
+msgstr "테마 프리셋을 파일로 내보냅니다."
+
+#: prefs.js:5409
+msgid "Reset all Settings"
+msgstr "모든 설정 초기화"
+
+#: prefs.js:5410
+msgid "Reset all ArcMenu Settings to Default"
+msgstr "모든 ArcMenu 설정을 기본값으로 초기화합니다"
+
+#: prefs.js:5416
+msgid "Restore Default Settings?"
+msgstr "기본 설정으로 되돌릴까요?"
+
+#: prefs.js:5416
+msgid "All ArcMenu settings will be reset to the default value."
+msgstr "모든 설정 값이 초기화됩니다."
+
+#: prefs.js:5524
+msgid "ArcMenu Version"
+msgstr "ArcMenu 버전"
+
+#: prefs.js:5541
+msgid "Git Commit"
+msgstr "Git 제출"
+
+#: prefs.js:5561
+msgid "GNOME Version"
+msgstr "그놈 버전"
+
+#: prefs.js:5579
+msgid "OS"
+msgstr "OS"
+
+#: prefs.js:5611
+msgid "Session Type"
+msgstr "세션 유형"
+
+#: prefs.js:5643
+msgid "A Dynamic, Traditional, Modern Menu for GNOME"
+msgstr "그놈을 위한 능동적이고 전통적이면서도 모던한 메뉴"
+
+#: prefs.js:5667
+msgid "Donate to the ArcMenu Project"
+msgstr "ArcMenu 프로젝트에 기부하기"
+
+#: prefs.js:5691
+msgid "Developers"
+msgstr "개발"
+
+#: prefs.js:5693
+msgid "Translators"
+msgstr "번역"
+
+#: prefs.js:5695
+msgid "Contributors"
+msgstr "기여"
+
+#: prefs.js:5697
+msgid "Artwork"
+msgstr "아트워크"
+
+#: prefs.js:5815 schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:88
+msgid "Menu Layout"
+msgstr "메뉴 레이아웃"
+
+#: prefs.js:5816
+msgid "Menu Theme"
+msgstr "메뉴 테마"
+
+#: prefs.js:5817 prefs.js:5825
+msgid "Menu Settings"
+msgstr "메뉴 설정"
+
+#: prefs.js:5818
+msgid "Button Appearance"
+msgstr "버튼 모양"
+
+#: prefs.js:5820
+msgid "About"
+msgstr "정보"
+
+#: prefs.js:5829
+msgid "Fine-Tune"
+msgstr ""
+
+#: prefs.js:5834
+msgid "Directories"
+msgstr "경로"
+
+#: prefs.js:5836
+msgid "Session Buttons"
+msgstr "세션 버튼"
+
+#: prefs.js:5837
+msgid "Extra Shortcuts"
+msgstr "그 외 바로가기"
+
+#: prefs.js:5917
+msgid "Error - Invalid Shortcut"
+msgstr "오류 - 알 수 없는 바로가기"
+
+#: prefs.js:5918
+msgid "Invalid Shortcut"
+msgstr "알 수 없는 바로가기"
+
+#: prefsWidgets.js:470
+msgid "Modify"
+msgstr "수정"
+
+#: prefsWidgets.js:482
+msgid "Change"
+msgstr "바꾸기"
+
+#: prefsWidgets.js:509
+msgid "Move Up"
+msgstr "위로"
+
+#: prefsWidgets.js:525
+msgid "Move Down"
+msgstr "아래로"
+
+#: prefsWidgets.js:542
+msgid "Delete"
+msgstr "삭제"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:82
+msgid "Menu position alignment"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:83
+msgid "Menu position alignment 0 = Left, 50 = Center, 100 = Right"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:87
+msgid "menu layout"
+msgstr "메뉴 레이아웃"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:92
+msgid "disable hotkey on key release"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:93
+msgid "disable hotkey on key release."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:97
+msgid ""
+"Keeps track of available placement for ArcMenu. [Main Panel, Dash to Panel, "
+"Dash to Dock]"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:98
+msgid "false = not avaliable, true = avaliable"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:102
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:103
+msgid "Embed ArcMenu button into Dash instead of panel"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:107
+msgid "Enable Weather Widget raven layout"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:108
+msgid "Enable Weather Widget raven layout."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:112
+msgid "Enable Clocks Widget raven layout"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:113
+msgid "Enable Clocks Widget raven layout."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:117
+msgid "Enable Weather Widget ubuntu layout"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:118
+msgid "Enable Weather Widget ubuntu layout."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:122
+msgid "Enable Clocks Widget ubuntu layout"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:123
+msgid "Enable Clocks Widget ubuntu layout."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:127
+msgid "Enable Category Sub Menus"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:128
+msgid "Enable Category Sub Menus."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:132
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:133
+msgid "disable the arrows on category menu items"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:137
+msgid "KRunner layout show larger icon and app details"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:138
+msgid "KRunner layout show larger icon and app details."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:142
+msgid "Activate Categories on Hover"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:143
+msgid "Activate Categories on Hover."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:147
+msgid "disable recently installed apps"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:148
+msgid "disable recently installed apps."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:152
+msgid "disable tooltips"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:153
+msgid "disable tooltips."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:157
+msgid "Separate All Programs by a Character Listing"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:158
+msgid "Separate All Programs by a Character Listing."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:162
+msgid "Multi-lined labels for large icon application grid layouts"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:163
+msgid "Multi-lined labels for large icon application grid layouts."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:167
+msgid "Set ArcMenu Layout Default View"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:168
+msgid "Set ArcMenu Layout Default View."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:172
+msgid "Set Tognee Layout Default View"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:173
+msgid "Set Tognee Layout Default View."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:177
+msgid "Set Ubuntu Dash layout to display \"Home Screen\" as default"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:178
+msgid ""
+"Set Ubuntu Dash layout to display \"Home Screen\" as default. False = Show "
+"all Apps"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:182
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:183
+msgid "Remove the themes menu arrow and displacement"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:187
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:188
+msgid "Remove border around the searchbox"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:192
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:193
+msgid "Disable the user avatar icon from the menu"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:197
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:198
+msgid "Enable an Activitities Overview Shortcut"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:202
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:203
+msgid "Searchbar location for layouts with default searchbar on bottom"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:207
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:208
+msgid "Searchbar location for layouts with default searchbar on top"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:212
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:213
+msgid "Flip menu horizontally"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:217
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:218
+msgid "GNOME Dash Layout - Show Applications"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:222
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:223
+msgid "Plasma Menu Show Descriptions"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:227
+msgid "Plasma Selected Item Color"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:228
+msgid "Plasma Selected Item Color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:232
+msgid "Plasma Selected Item Background Color"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:233
+msgid "Plasma Selected Item Background Color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:237
+msgid "Plasma Menu Hover to activate item"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:238
+msgid "Plasma Menu Hover to activate item."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:242
+msgid "Used to reload theme"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:243
+msgid "Used to reload theme."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:247
+msgid "Enable a vertical separator"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:248
+msgid "Enable a vertical separator."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:253
+msgid "Separator Color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:258
+msgid "Menu Background Color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:263
+msgid "Menu Foreground Color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:268
+msgid "Border Color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:272
+msgid "Highlight/Active Menu Item Background Color"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:273
+msgid "Highlight/Active Menu Item Background Color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:277
+msgid "Highlight/Active Menu Item Foreground Color"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:278
+msgid "Highlight/Active Menu Item Foreground Color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:282
+msgid "Menu font size"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:283
+msgid "Menu font size."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:287
+msgid "Menu border size"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:288
+msgid "Menu border size."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:292
+msgid "Menu corner radius"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:293
+msgid "Menu corner radius."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:297
+msgid "Menu margin"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:298
+msgid "Menu margin."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:302
+msgid "Menu arrow size"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:303
+msgid "Menu arrow size."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:308
+msgid "Menu Height."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:312
+msgid "Menu width"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:313
+msgid "Menu width."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:317
+msgid "Right Panel width"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:318
+msgid "Right Panel width."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:327
+msgid "Recently Installed Application Inidcator Color"
+msgstr "최근 설치된 프로그램 표시기 색"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:328
+msgid "Recently Installed Application Inidcator Color.."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:332
+msgid "Recently Installed Application Inidcator Text Background Color"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:333
+msgid "Recently Installed Application Inidcator Text Background Color.."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:337
+msgid "Enable Custom ArcMenu Theme"
+msgstr "커스텀 테마 활성화"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:338
+msgid "Enable Custom ArcMenu Theme."
+msgstr "커스텀 테마를 사용합니다."
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:342
+msgid "Enable Custom ArcMenu Layout"
+msgstr "커스텀 레이아웃 활성화"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:343
+msgid "Enable Custom ArcMenu Layout."
+msgstr "커스텀 레이아웃을 활성화합니다."
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:347
+msgid "Show External Devices"
+msgstr "외부 장치 표시"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:348
+msgid "Show External Devices."
+msgstr "외부 장치를 표시합니다."
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:352
+msgid "Show Bookmarks"
+msgstr "북마크 표시"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:353
+msgid "Show Bookmarks."
+msgstr "북마크를 표시합니다."
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:357
+msgid "Show logout button"
+msgstr "로그아웃 버튼 표시"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:358
+msgid "Show logout button."
+msgstr "로그아웃 버튼을 표시합니다."
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:362
+msgid "Show lock button"
+msgstr "잠금 버튼 표시"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:363
+msgid "Show lock button."
+msgstr "잠금 버튼을 표시합니다."
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:367
+msgid "Show suspend button"
+msgstr "절전 버튼 표시"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:368
+msgid "Show suspend button."
+msgstr "절전 버튼을 표시합니다."
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:372
+msgid "Show restart button"
+msgstr "다시 시작 버튼 표시"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:373
+msgid "Show restart button."
+msgstr "다시 시작 버튼을 표시합니다."
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:377
+msgid "Show power button"
+msgstr "전원 버튼 표시"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:378
+msgid "Show power button."
+msgstr "전원 버튼을 표시합니다."
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:382
+msgid "Display on all monitors"
+msgstr "모든 모니터에 표시"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:383
+msgid "Display the menu on all monitors when using Dash to Panel."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:387
+msgid "Activities hotcorner action"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:388
+msgid "Activities hotcorner action."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:392
+msgid "Override action of activities hot corner"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:393
+msgid "Override action of activities hot corner."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:398
+msgid ""
+"Restore Activities Button in panel. Used with \"Hidden\" ArcMenu icon setting"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:403
+msgid "Disable Activities Button in panel."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:407
+msgid "Custom hot corner terminal command"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:408
+msgid "Custom hot corner terminal command."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:412
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:413
+msgid "The menu hotkey to open the ArcMenu."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:417
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:418
+msgid "Enable the keybinding for the ArcMenu."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:422
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:427
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:428
+msgid "Keybinding to open the ArcMenu."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:423
+msgid "Keybinding to open the ArcMenu.."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:432
+msgid "The menu position in the panel"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:433
+msgid "The menu position in the panel."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:437
+msgid "KRunner Menu Position"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:438
+msgid "KRunner Menu Position."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:442
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:443
+msgid "Appearance of the menu button."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:447
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:448
+msgid "Appearance of the avatar icon."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:452
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:453
+msgid "Enables the default menu button arrow."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:457
+msgid "Enables large icons for applications."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:458
+msgid "Enables large icons for applications and search results."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:462
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:463
+msgid "Text of the menu button."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:467
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:468
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:472
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:473
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:477
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:478
+msgid "Icon of the menu button."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:482
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:483
+msgid "File path of the custom icon for the menu button."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:487
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:488
+msgid "Size of the icon in percentage."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:492
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:493
+msgid "Menu Button Padding."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:497
+msgid "Disable the active indicator for the menu button"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:498
+msgid "Disable the active indicator for the menu button."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:502
+msgid "Color for the menu button icon"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:503
+msgid "Color for the menu button icon."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:507
+msgid "Allows changing the menu button icon color"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:508
+msgid "Allows changing the menu button icon color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:512
+msgid "Active color for the menu button icon"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:513
+msgid "Active color for the menu button icon."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:517
+msgid "Allows changing the menu button icon active color"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:518
+msgid "Allows changing the menu button icon active color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:522
+msgid "Hover color for the menu button icon"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:523
+msgid "Hover color for the menu button icon."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:527
+msgid "Allows changing the menu button icon hover color"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:528
+msgid "Allows changing the menu button icon hover color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:532
+msgid "Hover background color for the menu button icon"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:533
+msgid "Hover background color for the menu button icon."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:537
+msgid "Allows changing the menu button hover background color"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:538
+msgid "Allows changing the menu button hover background color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:542
+msgid "Active background color for the menu button icon"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:543
+msgid "Active background color for the menu button icon."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:547
+msgid "Allows changing the menu button active background color"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:548
+msgid "Allows changing the menu button active background color."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:552
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:553
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:557
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:558
+msgid "List of recently installed apps"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:563
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:564
+msgid "List of Apps Pinned to Menu"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:568
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:569
+msgid "Toggle for enabling custom shortcuts."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:574
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:581
+msgid ""
+"List of default directory paths used for links on the right side of ArcMenu"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:575
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:582
+msgid ""
+"List of default directory paths used for links on the right side of ArcMenu."
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:586
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:587
+msgid "List of Ubuntu-Dash Layout Pinned Apps"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:591
+msgid "Index of Ubuntu-Dash Layout Pinned App Separator"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:592
+msgid "Index of Ubuntu-Dash Layout Pinned App Separator, 0 = none"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:596
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:597
+msgid "List of Brisk Layout Shortcuts"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:601
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:602
+msgid "List of Mint Layout Pinned Apps"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:606
+msgid "Index of Mint Layout Pinned App Separator"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:607
+msgid "Index of Mint Layout Pinned App Separator, 0 = none"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:613
+msgid "List of color-themes"
+msgstr "색상 테마 목록"
+
+#: schemas/org.gnome.shell.extensions.arcmenu.gschema.xml:614
+msgid "List of color themes."
+msgstr "색상 테마 목록을 봅니다."
+
+#: search.js:858
+msgid "Searching..."
+msgstr "검색 중..."
+
+#: search.js:860
+msgid "No results."
+msgstr "결과가 없습니다."
+
+#: search.js:1037
+#, javascript-format
+msgid "%d more"
+msgid_plural "%d more"
+msgstr[0] "%d 외"

@@ -1,0 +1,1782 @@
+# Slovak translation of ArcMenu.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Dušan Kazik <prescott66@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-15 08:45-0400\n"
+"PO-Revision-Date: 2020-10-21 09:59+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: Dušan Kazik <prescott66@gmail.com>\n"
+"Language: sk\n"
+
+#: placeDisplay.js:133
+#, javascript-format
+msgid "Failed to launch “%s”"
+msgstr "Zlyhalo spustenie „%s“"
+
+#: placeDisplay.js:148
+#, javascript-format
+msgid "Failed to mount volume for “%s”"
+msgstr "Zlyhalo pripojenie zväzku pre „%s“"
+
+#: placeDisplay.js:232 placeDisplay.js:256 menulayouts/baseMenuLayout.js:348
+#: menulayouts/plasma.js:145 menulayouts/ubuntudash.js:242
+msgid "Computer"
+msgstr "Počítač"
+
+#: placeDisplay.js:321
+#, javascript-format
+msgid "Ejecting drive “%s” failed:"
+msgstr "Zlyhalo vysúvanie jednotky „%s“:"
+
+#: placeDisplay.js:447 menulayouts/baseMenuLayout.js:348
+#: menulayouts/baseMenuLayout.js:388 menulayouts/ubuntudash.js:234
+msgid "Home"
+msgstr "Domov"
+
+#: placeDisplay.js:717 menulayouts/baseMenuLayout.js:424
+#: menulayouts/baseMenuLayout.js:426
+msgid "Trash"
+msgstr "Kôš"
+
+#: placeDisplay.js:727 placeDisplay.js:733
+msgid "Empty Trash"
+msgstr "Vyprázdniť kôš"
+
+#: prefs.js:42 prefs.js:6041 constants.js:68 menulayouts/tweaks/tweaks.js:932
+#: menulayouts/plasma.js:136 menulayouts/ubuntudash.js:52
+#: menulayouts/ubuntudash.js:330 menulayouts/windows.js:449
+#: menulayouts/raven.js:51 menulayouts/raven.js:214 menuWidgets.js:1111
+#: menuWidgets.js:1149 menuWidgets.js:2354 menuWidgets.js:2413
+#: menuWidgets.js:2477 menuWidgets.js:2668
+msgid "Pinned Apps"
+msgstr "Pripnuté aplikácie"
+
+#: prefs.js:60 prefs.js:4985
+msgid "Add More Apps"
+msgstr "Pridať viac aplikácií"
+
+# tooltip
+#: prefs.js:68
+msgid "Browse a list of all applications to add to your Pinned Apps list."
+msgstr ""
+"Prehliada zoznam všetkých aplikácií, ktoré sa pridajú do vášho zoznamu "
+"pripnutých aplikácií."
+
+#: prefs.js:101 prefs.js:4741 prefs.js:5024
+msgid "Add Custom Shortcut"
+msgstr "Pridať vlastnú skratku"
+
+# tooltip
+#: prefs.js:109
+msgid "Create a custom shortcut to add to your Pinned Apps list."
+msgstr ""
+"Vytvorí vlastnú skratku, ktorá sa pridá do vášho zoznamu pripnutých "
+"aplikácií."
+
+#: prefs.js:133 prefs.js:774 prefs.js:1455 prefs.js:1637 prefs.js:2729
+#: prefs.js:3166 prefs.js:3491 prefs.js:3569 prefs.js:3887 prefs.js:4605
+#: prefs.js:4790 prefs.js:5072
+msgid "Apply"
+msgstr "Použiť"
+
+# tooltip
+#: prefs.js:202 prefs.js:4862 prefs.js:5145 menulayouts/tweaks/tweaks.js:777
+msgid "Modify"
+msgstr "Upraví"
+
+# tooltip
+#: prefs.js:207 prefs.js:3633 prefs.js:4869 prefs.js:5150
+#: menulayouts/tweaks/tweaks.js:782
+msgid "Move Up"
+msgstr "Presunie vyššie"
+
+# tooltip
+#: prefs.js:212 prefs.js:3638 prefs.js:4874 prefs.js:5155
+#: menulayouts/tweaks/tweaks.js:787
+msgid "Move Down"
+msgstr "Presunie nižšie"
+
+# tooltip
+#: prefs.js:217 prefs.js:4879 prefs.js:5160
+msgid "Delete"
+msgstr "Odstráni"
+
+#: prefs.js:289
+msgid "Add to your Pinned Apps"
+msgstr "Pridanie do vašich pripnutých aplikácií"
+
+#: prefs.js:291
+msgid "Change Selected Pinned App"
+msgstr "Zmena vybranej pripnutej aplikácie"
+
+#: prefs.js:293
+msgid "Select Application Shortcuts"
+msgstr "Výber skratiek aplikácií"
+
+#: prefs.js:295
+msgid "Select Directory Shortcuts"
+msgstr "Výber skratiek adresárov"
+
+#: prefs.js:303 menuWidgets.js:2913
+msgid "Type to search…"
+msgstr "Hľadanie začnete písaním…"
+
+#: prefs.js:334 prefs.js:440 prefs.js:612 prefs.js:5979 menuButton.js:707
+#: menulayouts/tognee.js:155 menulayouts/redmond.js:174
+#: menulayouts/arcmenu.js:182 menulayouts/plasma.js:180
+#: menulayouts/ubuntudash.js:196 menulayouts/windows.js:146
+#: menulayouts/raven.js:178 menuWidgets.js:1250 menuWidgets.js:1926
+msgid "ArcMenu Settings"
+msgstr "Nastavenia rozšírenia ArcMenu"
+
+#: prefs.js:363 prefs.js:774
+msgid "Add"
+msgstr "Pridať"
+
+#: prefs.js:441 prefs.js:1397
+msgid "Run Command..."
+msgstr "Spustiť príkaz…"
+
+#: prefs.js:442
+msgid "Show All Applications"
+msgstr "Zobraziť všetky aplikácie"
+
+#: prefs.js:492
+msgid "Default Apps"
+msgstr "Predvolené aplikácie"
+
+#: prefs.js:496 prefs.js:575
+msgid "System Apps"
+msgstr "Systémové aplikácie"
+
+#: prefs.js:571
+msgid "Presets"
+msgstr "Predvoľby"
+
+#: prefs.js:696 prefs.js:698
+msgid "Edit Pinned App"
+msgstr "Úprava pripnutej aplikácie"
+
+#: prefs.js:696 prefs.js:698 prefs.js:700 prefs.js:702
+msgid "Add a Custom Shortcut"
+msgstr "Pridanie vlastnej skratky"
+
+#: prefs.js:700
+msgid "Edit Shortcut"
+msgstr "Úprava skratky"
+
+#: prefs.js:702
+msgid "Edit Custom Shortcut"
+msgstr "Úprava vlastnej skratky"
+
+#: prefs.js:710
+msgid "Shortcut Name:"
+msgstr "Názov skratky:"
+
+#: prefs.js:725
+msgid "Icon:"
+msgstr "Ikona:"
+
+#: prefs.js:738
+msgid "Please select an image icon"
+msgstr "Prosím, vyberte obrázok ikony"
+
+#: prefs.js:758
+msgid "Terminal Command:"
+msgstr "Príkaz terminálu:"
+
+#: prefs.js:765
+msgid "Shortcut Path:"
+msgstr "Cesta k skratke:"
+
+#: prefs.js:813 prefs.js:6026 menulayouts/tweaks/tweaks.js:429
+msgid "General"
+msgstr "Všeobecné"
+
+#: prefs.js:817
+msgid "Panel and Dock Options"
+msgstr "Voľby panela a doku"
+
+#: prefs.js:833
+msgid "Activities Hot Corner Options"
+msgstr "Voľby aktívneho rohu aktivít"
+
+#: prefs.js:843 prefs.js:1343
+msgid "Modify Activities Hot Corner"
+msgstr "Upraviť aktívny roh aktivít"
+
+# tooltip
+#: prefs.js:852
+msgid "Modify the action of the Activities Hot Corner"
+msgstr ""
+
+# tooltip
+#: prefs.js:864
+msgid "Override the default behavoir of the Activities Hot Corner"
+msgstr ""
+
+#: prefs.js:883
+msgid "Hotkey activation"
+msgstr "Aktivácia horúceho klávesu"
+
+# tooltip
+#: prefs.js:890
+msgid "Choose a method for the hotkey activation"
+msgstr "Zvolí spôsob, akým sa aktivuje horúci kláves"
+
+#: prefs.js:892
+msgid "Key Release"
+msgstr "Uvoľnenie klávesu"
+
+#: prefs.js:893
+msgid "Key Press"
+msgstr "Stlačenie klávesu"
+
+#: prefs.js:909
+msgid "Hotkey Options"
+msgstr "Voľby horúceho klávesu"
+
+#: prefs.js:919
+msgid "Choose a Hotkey for ArcMenu"
+msgstr "Zvoľte horúci kláves pre rozšírenie ArcMenu"
+
+#: prefs.js:928
+msgid "Left Super Key"
+msgstr "Ľavý kláves Super"
+
+# tooltip
+#: prefs.js:932
+msgid "Set ArcMenu hotkey to Left Super Key"
+msgstr "Nastaví horúci kláves rozšírenia ArcMenu na ľavý kláves Super"
+
+#: prefs.js:935
+msgid "Right Super Key"
+msgstr "Pravý kláves Super"
+
+#: prefs.js:940
+msgid "Set ArcMenu hotkey to Right Super Key"
+msgstr "Nastaví horúci kláves rozšírenia ArcMenu na pravý kláves Super"
+
+#: prefs.js:943
+msgid "Custom Hotkey"
+msgstr "Vlastný horúci kláves"
+
+# tooltip
+#: prefs.js:948
+msgid "Set a custom hotkey for ArcMenu"
+msgstr "Nastaví vlastný horúci kláves pre rozšírenie ArcMenu"
+
+#: prefs.js:951
+msgid "None"
+msgstr "Žiadna"
+
+# tooltip
+#: prefs.js:956
+msgid "Clear ArcMenu hotkey, use GNOME default"
+msgstr ""
+"Vymaže horúci kláves rozšírenia ArcMenu, použije sa predvolený prostredia "
+"GNOME"
+
+#: prefs.js:1018
+msgid "Current Hotkey"
+msgstr "Aktuálny horúci kláves"
+
+#: prefs.js:1027
+msgid "Current custom hotkey"
+msgstr "Aktuálny vlastný horúci kláves"
+
+#: prefs.js:1032
+msgid "Modify Hotkey"
+msgstr "Upraviť horúci kláves"
+
+# tooltip
+#: prefs.js:1035
+msgid "Create your own hotkey combination for ArcMenu"
+msgstr ""
+"Vytvorí vašu vlastnú kombináciu horúceho klávesu pre rozšírenie ArcMenu"
+
+#: prefs.js:1069
+msgid "Display ArcMenu On"
+msgstr "Zobraziť rozšírenie ArcMenu na"
+
+# tooltip
+#: prefs.js:1076
+msgid "Choose where to place ArcMenu"
+msgstr "Zvolí, kam sa umiestni rozšírenie ArcMenu"
+
+#: prefs.js:1080
+msgid "Dash to Dock"
+msgstr ""
+
+#: prefs.js:1084
+msgid "Ubuntu Dock"
+msgstr ""
+
+#: prefs.js:1087
+msgid "Main Panel"
+msgstr "Hlavný panel"
+
+#: prefs.js:1088
+msgid "Dash to Panel"
+msgstr ""
+
+#: prefs.js:1142
+msgid "Disable Activities Button"
+msgstr ""
+
+#: prefs.js:1143
+msgid "Dash to Dock extension not running!"
+msgstr ""
+
+#: prefs.js:1143
+msgid "Enable Dash to Dock for this feature to work."
+msgstr ""
+
+#: prefs.js:1151
+msgid "Disable Activities Button in panel"
+msgstr ""
+
+#: prefs.js:1180
+msgid "Dash to Panel currently enabled!"
+msgstr ""
+
+#: prefs.js:1180
+msgid "Disable Dash to Panel for this feature to work."
+msgstr ""
+
+#: prefs.js:1181
+msgid "Dash to Panel extension not running!"
+msgstr ""
+
+#: prefs.js:1181
+msgid "Enable Dash to Panel for this feature to work."
+msgstr ""
+
+#: prefs.js:1202
+msgid "Position in Dash to Panel"
+msgstr ""
+
+#: prefs.js:1202
+msgid "Position in Main Panel"
+msgstr "Pozícia v hlavnom paneli"
+
+#: prefs.js:1209
+msgid "Left"
+msgstr "Vľavo"
+
+#: prefs.js:1210
+msgid "Position ArcMenu on the Left side of Dash to Panel"
+msgstr ""
+
+#: prefs.js:1211
+msgid "Position ArcMenu on the Left side of the Main Panel"
+msgstr ""
+
+#: prefs.js:1214
+msgid "Center"
+msgstr "V strede"
+
+#: prefs.js:1216
+msgid "Position ArcMenu in the Center of Dash to Panel"
+msgstr ""
+
+#: prefs.js:1217
+msgid "Position ArcMenu in the Center of the Main Panel"
+msgstr ""
+
+#: prefs.js:1220
+msgid "Right"
+msgstr "Vpravo"
+
+#: prefs.js:1222
+msgid "Position ArcMenu on the Right side of Dash to Panel"
+msgstr ""
+
+#: prefs.js:1223
+msgid "Position ArcMenu on the Right side of the Main Panel"
+msgstr ""
+
+#: prefs.js:1264
+msgid "Menu Alignment to Button"
+msgstr ""
+
+#: prefs.js:1275
+msgid "Adjust ArcMenu's menu alignment relative to ArcMenu's icon"
+msgstr ""
+
+#: prefs.js:1288 prefs.js:1296
+msgid "Display ArcMenu on all monitors"
+msgstr ""
+
+#: prefs.js:1352
+msgid "Activities Hot Corner Action"
+msgstr "Akcia aktívneho rohu Aktivít"
+
+# tooltip
+#: prefs.js:1359
+msgid "Choose the action of the Activities Hot Corner"
+msgstr "Zvolí akciu pre aktívny roh s aktivitami"
+
+#: prefs.js:1361
+msgid "GNOME Default"
+msgstr "Predvolená prostredím GNOME"
+
+#: prefs.js:1362
+msgid "Disabled"
+msgstr "Zakázaný"
+
+#: prefs.js:1363
+msgid "Toggle ArcMenu"
+msgstr "Prepnúť rozšírenie ArcMenu"
+
+#: prefs.js:1364
+msgid "Custom"
+msgstr "Vlastná"
+
+#: prefs.js:1370
+msgid "Custom Activities Hot Corner Action"
+msgstr ""
+
+#: prefs.js:1370
+msgid "Choose from a list of preset commands or use your own terminal command"
+msgstr ""
+
+#: prefs.js:1380
+msgid "Preset commands"
+msgstr "Príkazy predvolieb"
+
+# tooltip
+#: prefs.js:1386
+msgid "Choose from a list of preset Activities Hot Corner commands"
+msgstr "Zvolí zo zoznamu príkazov predvolieb aktívneho rohu aktivít"
+
+#: prefs.js:1390
+msgid "Show all Applications"
+msgstr "Zobraziť všetky aplikácie"
+
+#: prefs.js:1391
+msgid "GNOME Terminal"
+msgstr "Terminál prostredia GNOME"
+
+#: prefs.js:1392
+msgid "GNOME System Monitor"
+msgstr "Monitor systému prostredia GNOME"
+
+#: prefs.js:1393
+msgid "GNOME Calculator"
+msgstr "Kalkulačka prostredia GNOME"
+
+#: prefs.js:1394
+msgid "GNOME gedit"
+msgstr "Gedit prostredia GNOME"
+
+#: prefs.js:1395
+msgid "GNOME Screenshot"
+msgstr "Snímka obrazovky prostredia GNOME"
+
+#: prefs.js:1396
+msgid "GNOME Weather"
+msgstr "Počasie prostredia GNOME"
+
+#: prefs.js:1429
+msgid "Terminal Command"
+msgstr "Príkaz terminálu"
+
+# tooltip
+#: prefs.js:1435
+msgid "Set a custom terminal command to launch on active hot corner"
+msgstr ""
+"Nastaví vlastný príkaz terminálu, ktorý sa spustí pri aktivovaní aktívneho "
+"rohu"
+
+# tooltip
+#: prefs.js:1457
+msgid "Apply changes and set new hot corner action"
+msgstr "Použije zmeny a nastaví novú akciu aktívneho rohu"
+
+#: prefs.js:1520
+msgid "Set Custom Hotkey"
+msgstr "Nastavenie vlastného horúceho klávesu"
+
+#: prefs.js:1529
+msgid "Press a key"
+msgstr "Stlačte kláves"
+
+#: prefs.js:1554
+msgid "Modifiers"
+msgstr "Modifikátory"
+
+#: prefs.js:1559
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: prefs.js:1564
+msgid "Super"
+msgstr "Super"
+
+#: prefs.js:1568
+msgid "Shift"
+msgstr "Shift"
+
+#: prefs.js:1572
+msgid "Alt"
+msgstr "Alt"
+
+#: prefs.js:1700
+msgid "Menu Button Appearance"
+msgstr "Vzhľad tlačidla ponuky"
+
+#: prefs.js:1710
+msgid "Appearance"
+msgstr "Vzhľad"
+
+#: prefs.js:1716 prefs.js:1814
+msgid "Icon"
+msgstr "Ikona"
+
+#: prefs.js:1717 prefs.js:1762
+msgid "Text"
+msgstr "Text"
+
+#: prefs.js:1718
+msgid "Icon and Text"
+msgstr "Ikona a text"
+
+#: prefs.js:1719
+msgid "Text and Icon"
+msgstr "Text a ikona"
+
+#: prefs.js:1720
+msgid "Hidden"
+msgstr "Skryté"
+
+#: prefs.js:1744
+msgid "Show Arrow"
+msgstr "Zobraziť šípku"
+
+#: prefs.js:1784
+msgid "Restore Activities Button"
+msgstr ""
+
+#: prefs.js:1792
+msgid "Restore Activities Button in panel"
+msgstr ""
+
+#: prefs.js:1804
+msgid "Icon Appearance"
+msgstr "Vzhľad ikon"
+
+#: prefs.js:1824
+msgid "Browse Icons"
+msgstr "Prehliadať ikony"
+
+# tooltip
+#: prefs.js:1830
+msgid "Choose from a variety of icons"
+msgstr "Zvolí z rôznorodých ikon"
+
+#: prefs.js:1849
+msgid "Icon Size"
+msgstr "Veľkosť ikon"
+
+#: prefs.js:1881
+msgid "Icon Padding"
+msgstr "Odsadenie ikon"
+
+#: prefs.js:1912
+msgid "Menu Button Colors"
+msgstr "Farby tlačidla ponuky"
+
+#: prefs.js:1922
+msgid "Color"
+msgstr "Farba"
+
+#: prefs.js:1939
+msgid "Change the color of the Menu Button"
+msgstr ""
+
+#: prefs.js:1939 prefs.js:1973 prefs.js:2007
+msgid ""
+"Icon color options will only work with files ending with \"-symbolic.svg\""
+msgstr ""
+
+#: prefs.js:1956
+msgid "Hover Color"
+msgstr ""
+
+#: prefs.js:1973
+msgid "Change the hover color of the Menu Button"
+msgstr ""
+
+#: prefs.js:1990
+msgid "Active Color"
+msgstr "Aktívna farba"
+
+#: prefs.js:2007
+msgid "Change the active color of the Menu Button"
+msgstr ""
+
+#: prefs.js:2024
+msgid "Hover Background Color"
+msgstr ""
+
+#: prefs.js:2044
+msgid "Active Background Color"
+msgstr ""
+
+#: prefs.js:2065 prefs.js:3135 prefs.js:3461 prefs.js:3553 prefs.js:4556
+#: prefs.js:4774 prefs.js:5056 menulayouts/tweaks/tweaks.js:285
+msgid "Restore Defaults"
+msgstr "Obnoviť predvolené"
+
+#: prefs.js:2126 prefs.js:2232
+msgid "ArcMenu Icons"
+msgstr "Ikony rozšírenia ArcMenu"
+
+#: prefs.js:2202
+msgid "Browse for a Custom Icon"
+msgstr ""
+
+#: prefs.js:2211
+msgid "Select an Icon"
+msgstr "Výber ikony"
+
+#: prefs.js:2233
+msgid "Distro Icons"
+msgstr "Ikony distribúcie"
+
+#: prefs.js:2234
+msgid "Custom Icon"
+msgstr "Vlastná ikona"
+
+#: prefs.js:2291
+msgid "Legal disclaimer for Distro Icons..."
+msgstr "Právne vyhlásenie k ikonám distribúcie…"
+
+#: prefs.js:2369
+msgid "Current Menu Layout"
+msgstr "Aktuálne rozloženie ponuky"
+
+#: prefs.js:2375
+msgid "Choose New Layout"
+msgstr "Zvoliť nové rozloženie"
+
+#: prefs.js:2401
+msgid "Tweaks for the current menu layout"
+msgstr "Vyladenia aktuálneho rozloženia ponuky"
+
+#: prefs.js:2406 prefs.js:2424 prefs.js:2454 menulayouts/tognee.js:155
+#: menulayouts/redmond.js:174 menulayouts/arcmenu.js:182
+#: menulayouts/plasma.js:180 menulayouts/ubuntudash.js:196
+#: menulayouts/windows.js:146 menulayouts/raven.js:178
+msgid "Tweaks"
+msgstr "Vyladenia"
+
+#: prefs.js:2528
+msgid "Enable Custom Menu Theme"
+msgstr "Povolenie vlastného motívu ponuky"
+
+#: prefs.js:2538
+msgid "Override Menu Theme"
+msgstr "Prevážiť motív ponuky"
+
+# tooltip
+#: prefs.js:2546
+msgid "Override the ArcMenu extension theme"
+msgstr "Preváži motív rozšírenia ArcMenu"
+
+#: prefs.js:2704 prefsWidgets.js:342
+msgid "Menu Layouts"
+msgstr "Rozloženia ponúk"
+
+#: prefs.js:2744 menuWidgets.js:1581
+msgid "Back"
+msgstr "Späť"
+
+#: prefs.js:2819
+msgid "Menu Height"
+msgstr "Výška ponuky"
+
+# tooltip
+#: prefs.js:2833
+msgid "Adjust the menu height"
+msgstr "Upraví výšku ponuky"
+
+# tooltip
+#: prefs.js:2833 prefs.js:2881 prefs.js:2927 prefs.js:2975 prefs.js:2997
+#: prefs.js:3046 prefs.js:3240
+msgid "Certain menu layouts only"
+msgstr "Iba pre rozloženia určitých ponúk"
+
+#: prefs.js:2873
+msgid "Left-Panel Width"
+msgstr "Šírka ľavého panelu"
+
+# tooltip
+#: prefs.js:2881
+msgid "Adjust the left-panel width"
+msgstr "Upraví šírku ľavého panelu"
+
+#: prefs.js:2919
+msgid "Right-Panel Width"
+msgstr "Šírka pravého panelu"
+
+# tooltip
+#: prefs.js:2927
+msgid "Adjust the right-panel width"
+msgstr "Upraví šírku pravého panelu"
+
+#: prefs.js:2967
+msgid "Large Application Icons"
+msgstr "Veľké ikony aplikácií"
+
+# tooltip
+#: prefs.js:2975
+msgid "Enable large application icons"
+msgstr "Povolí veľké ikony aplikácií"
+
+#: prefs.js:2989
+msgid "Category Sub Menus"
+msgstr ""
+
+#: prefs.js:2997
+msgid "Show nested menus in categories"
+msgstr ""
+
+#: prefs.js:3013
+msgid "Disable Tooltips"
+msgstr "Zakázať bublinové popisy"
+
+# tooltip
+#: prefs.js:3021
+msgid "Disable all tooltips in ArcMenu"
+msgstr ""
+
+#: prefs.js:3038 prefs.js:4512
+msgid "Enable Vertical Separator"
+msgstr "Povoliť zvislý oddeľovač"
+
+# tooltip
+#: prefs.js:3046
+msgid "Enable a Vertical Separator"
+msgstr "Povolí zvislý oddeľovač"
+
+#: prefs.js:3060 prefs.js:4533
+msgid "Separator Color"
+msgstr "Farba oddeľovača"
+
+# tooltip
+#: prefs.js:3068
+msgid "Change the color of all separators"
+msgstr "Zmení farbu všetkých oddeľovačov"
+
+#: prefs.js:3086 prefs.js:3094
+msgid "Disable Recently Installed Apps Indicator"
+msgstr "Zakázať indikátor nedávno nainštalovaných aplikácií"
+
+#: prefs.js:3109
+msgid "Clear all Applications Marked \"New\""
+msgstr "Vymazať všetky aplikácie označené ako „Nové“"
+
+#: prefs.js:3117
+msgid "Clear All"
+msgstr "Vymazať všetky"
+
+# tooltip
+#: prefs.js:3118
+msgid "Clear all applications marked \"New\""
+msgstr "Vymaže všetky aplikácie označené ako „Nové“"
+
+# tooltip
+#: prefs.js:3136 prefs.js:3462 prefs.js:3554
+msgid "Restore the default Extra Categories"
+msgstr "Obnoví predvolené kategórie navyše"
+
+#: prefs.js:3232
+msgid "Disable Category Arrows"
+msgstr "Zakázať šípky kategórií"
+
+# tooltip
+#: prefs.js:3240
+msgid "Disable the arrow on category menu items"
+msgstr "Zakáže šípky na položkách ponuky kategórií"
+
+#: prefs.js:3256
+msgid "Disable Searchbox Border"
+msgstr ""
+
+#: prefs.js:3264
+msgid "Disable the border on the searchbox"
+msgstr ""
+
+#: prefs.js:3280 menulayouts/tweaks/tweaks.js:461
+msgid "Disable Menu Arrow"
+msgstr "Zakázať šípku ponuky"
+
+# tooltip
+#: prefs.js:3288 menulayouts/tweaks/tweaks.js:469
+msgid "Disable current theme menu arrow pointer"
+msgstr ""
+
+#: prefs.js:3304
+msgid "Alphabetize 'All Programs' Category"
+msgstr ""
+
+#: prefs.js:3324 prefs.js:3339
+msgid "Multi-Lined Labels"
+msgstr "Menovky s viacerými riadkami"
+
+#: prefs.js:3339
+msgid "Enable/Disable mutli-lined labels on large application icon layouts."
+msgstr ""
+
+#: prefs.js:3358
+msgid "Recently Installed Application Indicators"
+msgstr "Indikátory nedávno nainštalovaných aplikácií"
+
+#: prefs.js:3369
+msgid "Category Indicator Color"
+msgstr "Farba indikátoru kategórie"
+
+#: prefs.js:3377
+msgid ""
+"Change the color of the 'recently installed application' category indicator"
+msgstr ""
+
+#: prefs.js:3393
+msgid "Application Indicator Label Color"
+msgstr ""
+
+#: prefs.js:3401
+msgid ""
+"Change the background color of the 'recently installed application' "
+"indicator label"
+msgstr ""
+
+#: prefs.js:3419
+msgid "Gap Adjustment"
+msgstr ""
+
+#: prefs.js:3429 prefs.js:3442
+msgid "Offset ArcMenu by 1px"
+msgstr ""
+
+#: prefs.js:3429 prefs.js:3442
+msgid "Useful if you notice a 1px gap or overlap between ArcMenu and the panel"
+msgstr ""
+
+# tooltip
+#: prefs.js:3643
+msgid "Enable/Disble"
+msgstr "Povolí/zakáže"
+
+#: prefs.js:3698
+msgid "Color Theme Name"
+msgstr "Názov farebného motívu"
+
+#: prefs.js:3705
+msgid "Name:"
+msgstr "Názov:"
+
+#: prefs.js:3730
+msgid "Save Theme"
+msgstr "Uložiť motív"
+
+#: prefs.js:3755
+msgid "Select Themes to Import"
+msgstr "Výber motívov na importovanie"
+
+#: prefs.js:3755
+msgid "Select Themes to Export"
+msgstr "Výber motívov na exportovanie"
+
+#: prefs.js:3773
+msgid "Import"
+msgstr "Importovať"
+
+#: prefs.js:3773
+msgid "Export"
+msgstr "Exportovať"
+
+#: prefs.js:3804
+msgid "Select All"
+msgstr "Vybrať všetko"
+
+#: prefs.js:3872 prefs.js:4196
+msgid "Manage Presets"
+msgstr "Spravovať predvoľby"
+
+#: prefs.js:4074 prefs.js:5516
+msgid "Menu Theme Presets"
+msgstr "Predvoľby motívov ponuky"
+
+#: prefs.js:4084
+msgid "Current Menu Theme Preset"
+msgstr "Aktuálna predvoľba motívu ponuky"
+
+#: prefs.js:4105
+msgid "Save as Preset"
+msgstr "Uložiť ako predvoľbu"
+
+#: prefs.js:4221
+msgid "Browse Presets"
+msgstr "Prehliadať predvoľby"
+
+#: prefs.js:4268
+msgid "Theme Settings"
+msgstr "Nastavenia motívu"
+
+#: prefs.js:4278
+msgid "Menu Background Color"
+msgstr "Farba pozadia ponuky"
+
+#: prefs.js:4300
+msgid "Menu Foreground Color"
+msgstr "Farba popredia ponuky"
+
+#: prefs.js:4320
+msgid "Font Size"
+msgstr "Veľkosť písma"
+
+#: prefs.js:4346
+msgid "Border Color"
+msgstr "Farba okraja"
+
+#: prefs.js:4367
+msgid "Border Size"
+msgstr "Veľkosť okraja"
+
+#: prefs.js:4393
+msgid "Active Item Background Color"
+msgstr "Farba pozadia aktívnej položky"
+
+#: prefs.js:4414
+msgid "Active Item Foreground Color"
+msgstr "Farba popredia aktívnej položky"
+
+#: prefs.js:4435
+msgid "Corner Radius"
+msgstr "Polomer rohov"
+
+#: prefs.js:4461
+msgid "Menu Arrow Size"
+msgstr "Veľkosť šípky ponuky"
+
+#: prefs.js:4487
+msgid "Menu Displacement"
+msgstr "Odsunutie ponuky"
+
+#: prefs.js:4702
+msgid "Add Default User Directories"
+msgstr "Pridať predvolené adresáre používateľa"
+
+#: prefs.js:4710
+msgid ""
+"Browse a list of all default User Directories to add to your Directories "
+"Shortcuts"
+msgstr ""
+
+#: prefs.js:4749
+msgid "Create a custom shortcut to add to your Directories Shortcuts"
+msgstr ""
+
+#: prefs.js:4775
+msgid "Restore the default Directory Shortcuts"
+msgstr ""
+
+#: prefs.js:4993
+msgid "Browse a list of all applications to add to your Application Shortcuts"
+msgstr ""
+
+#: prefs.js:5032
+msgid "Create a custom shortcut to add to your Application Shortcuts"
+msgstr ""
+
+# tooltip
+#: prefs.js:5057
+msgid "Restore the default Application Shortcuts"
+msgstr "Obnoví predvolené skratky aplikácií"
+
+#: prefs.js:5253 menulayouts/plasma.js:353 menulayouts/windows.js:258
+#: menuWidgets.js:1389
+msgid "Suspend"
+msgstr "Uspať"
+
+#: prefs.js:5270 menulayouts/plasma.js:343 menulayouts/ubuntudash.js:246
+#: menulayouts/windows.js:249 menulayouts/mint.js:232 menuWidgets.js:1398
+msgid "Lock"
+msgstr "Uzamknúť"
+
+#: prefs.js:5287 menulayouts/plasma.js:347 menulayouts/ubuntudash.js:245
+#: menulayouts/windows.js:252 menulayouts/mint.js:231 menuWidgets.js:1380
+msgid "Log Out"
+msgstr "Odhlásiť"
+
+#: prefs.js:5304 menuWidgets.js:1371
+msgid "Restart"
+msgstr "Reštartovať"
+
+#: prefs.js:5321 menulayouts/ubuntudash.js:247 menulayouts/mint.js:233
+#: menuWidgets.js:1362
+msgid "Power Off"
+msgstr "Vypnúť"
+
+#: prefs.js:5363
+msgid "External Devices"
+msgstr "Externé zariadenia"
+
+# tooltip
+#: prefs.js:5369
+msgid "Show all connected external devices in ArcMenu"
+msgstr "Zobrazí všetky pripojené externé zariadenia v ponuke ArcMenu"
+
+#: prefs.js:5383 menulayouts/plasma.js:291 menulayouts/windows.js:192
+msgid "Bookmarks"
+msgstr "Záložky"
+
+# tooltip
+#: prefs.js:5389
+msgid "Show all Nautilus bookmarks in ArcMenu"
+msgstr "Zobrazí všetky záložky aplikácie Nautilus v ponuke ArcMenu"
+
+#: prefs.js:5408 prefs.js:6034
+msgid "Misc"
+msgstr "Rôzne"
+
+#: prefs.js:5412
+msgid "Export or Import Settings"
+msgstr "Export alebo import nastavení"
+
+#: prefs.js:5422
+msgid "All ArcMenu Settings"
+msgstr "Všetky nastavenia rozšírenia ArcMenu"
+
+#: prefs.js:5431
+msgid "Export or Import All ArcMenu Settings"
+msgstr "Export alebo import všetkých nastavení rozšírenia ArcMenu"
+
+#: prefs.js:5431
+msgid ""
+"Importing settings from file may replace ALL saved settings.\n"
+"This includes all saved pinned apps."
+msgstr ""
+"Importovanie nastavení zo súboru môže nahradiť VŠETKY uložené nastavenia.\n"
+"Sú v tom zahrnuté všetky pripnuté aplikácie."
+
+#: prefs.js:5444
+msgid "Import from File"
+msgstr "Importovať zo súboru"
+
+# tooltip
+#: prefs.js:5447
+msgid "Import ArcMenu settings from a file"
+msgstr "Importuje nastavenia rozšírenia ArcMenu zo súboru"
+
+#: prefs.js:5451
+msgid "Import settings"
+msgstr "Import nastavení"
+
+#: prefs.js:5480
+msgid "Export to File"
+msgstr "Exportovať do súboru"
+
+# tooltip
+#: prefs.js:5483
+msgid "Export and save all your ArcMenu settings to a file"
+msgstr ""
+"Vyexportuje a uloží všetky vaše nastavenia rozšírenia ArcMenu do súboru"
+
+#: prefs.js:5488
+msgid "Export settings"
+msgstr "Export nastavení"
+
+#: prefs.js:5525
+msgid "Export or Import Menu Theme Presets"
+msgstr "Export alebo import predvolieb motívov ponuky"
+
+#: prefs.js:5525
+msgid "Menu theme presets are located in the \"Menu Theme\" section"
+msgstr "Predvoľby motívov ponuky sú umiestnené v časti „Motív ponuky“"
+
+#: prefs.js:5538 prefs.js:5545
+msgid "Import Theme Preset"
+msgstr "Importovať predvoľbu motívu"
+
+# tooltip
+#: prefs.js:5541
+msgid "Import ArcMenu Theme Presets from a file"
+msgstr "Importuje predvoľby motívov rozšírenia ArcMenu zo súboru"
+
+#: prefs.js:5581 prefs.js:5593
+msgid "Export Theme Preset"
+msgstr "Exportovať predvoľbu motívu"
+
+# tooltip
+#: prefs.js:5584
+msgid "Export and save your ArcMenu Theme Presets to a file"
+msgstr "Vyexportuje a uloží vaše motívov rozšírenia ArcMenu do súboru"
+
+#: prefs.js:5708
+msgid "ArcMenu Version"
+msgstr "Verzia rozšírenia ArcMenu"
+
+#: prefs.js:5725
+msgid "Git Commit"
+msgstr "Začlenenie Git"
+
+#: prefs.js:5745
+msgid "GNOME Version"
+msgstr "Verzia prostredia GNOME"
+
+#: prefs.js:5763
+msgid "OS"
+msgstr "Operačný systém"
+
+#: prefs.js:5795
+msgid "Session Type"
+msgstr "Typ relácie"
+
+#: prefs.js:5819 constants.js:296 menuWidgets.js:3201
+msgid "ArcMenu"
+msgstr "ArcMenu"
+
+#: prefs.js:5826
+msgid "A Dynamic, Traditional, Modern Menu for GNOME"
+msgstr "Dynamická, tradičná, moderná ponuka pre prostredie GNOME"
+
+#: prefs.js:5850
+msgid "Donate to the ArcMenu Project"
+msgstr "Prispejte projektu ArcMenu"
+
+#: prefs.js:5868 menuButton.js:717
+msgid "ArcMenu GitLab Page"
+msgstr "Stránka GitLab rozšírenia ArcMenu"
+
+#: prefs.js:5891
+msgid "Developers"
+msgstr "Vývojári"
+
+#: prefs.js:5893
+msgid "Translators"
+msgstr "Prekladatelia"
+
+#: prefs.js:5895
+msgid "Contributors"
+msgstr "Prispievatelia"
+
+#: prefs.js:5897
+msgid "Artwork"
+msgstr "Grafika"
+
+#: prefs.js:6028
+msgid "Menu Layout"
+msgstr "Rozloženie ponuky"
+
+#: prefs.js:6029
+msgid "Menu Theme"
+msgstr "Motív ponuky"
+
+#: prefs.js:6030 prefs.js:6039
+msgid "Menu Settings"
+msgstr "Nastavenia ponuky"
+
+#: prefs.js:6032
+msgid "Button Appearance"
+msgstr "Vzhľad tlačidla"
+
+#: prefs.js:6035
+msgid "About"
+msgstr "O aplikácii"
+
+#: prefs.js:6042 menulayouts/ubuntudash.js:439 menulayouts/raven.js:314
+msgid "Shortcuts"
+msgstr "Skratky"
+
+#: prefs.js:6043 menuWidgets.js:1294
+msgid "Categories"
+msgstr "Kategórie"
+
+#: prefs.js:6045
+msgid "Fine-Tune"
+msgstr "Doladenie"
+
+#: prefs.js:6049
+msgid "Directories"
+msgstr "Priečinky"
+
+#: prefs.js:6050 menulayouts/plasma.js:141 menuWidgets.js:3089
+msgid "Applications"
+msgstr "Aplikácie"
+
+#: prefs.js:6051
+msgid "Session Buttons"
+msgstr "Tlačidlá relácie"
+
+#: prefs.js:6052
+msgid "Extra Shortcuts"
+msgstr "Skratky navyše"
+
+#: prefs.js:6063
+msgid "Reset all..."
+msgstr "Obnoviť všetko…"
+
+# tooltip
+#: prefs.js:6065
+msgid "Reset all ArcMenu Settings to Default"
+msgstr "Obnoví všetky nastavenia rozšírenia ArcMenu na predvolené"
+
+#: prefs.js:6071
+msgid "Restore Default Settings?"
+msgstr "Obnoviť predvolené nastavenia?"
+
+#: prefs.js:6071
+msgid "All ArcMenu settings will be reset to the default value."
+msgstr ""
+"Všetky nastavenia rozšírenia ArcMenu budú obnovené na predvolené hodnoty."
+
+#: prefs.js:6156
+msgid "Error - Invalid Shortcut"
+msgstr "Chyba - neplatná skratka"
+
+#: prefs.js:6157
+msgid "Invalid Shortcut"
+msgstr "Neplatná skratka"
+
+#: constants.js:65 menuWidgets.js:1107 menuWidgets.js:1261 menuWidgets.js:2350
+#: menuWidgets.js:2473 menuWidgets.js:2664
+msgid "Favorites"
+msgstr "Obľúbené"
+
+#: constants.js:66 menulayouts/tweaks/tweaks.js:934 menuWidgets.js:1094
+#: menuWidgets.js:2338 menuWidgets.js:2461 menuWidgets.js:2652
+msgid "Frequent Apps"
+msgstr "Často používané aplikácie"
+
+#: constants.js:67 menulayouts/tweaks/tweaks.js:446
+#: menulayouts/tweaks/tweaks.js:575 menulayouts/tweaks/tweaks.js:903
+#: menulayouts/ubuntudash.js:54 menulayouts/ubuntudash.js:335
+#: menulayouts/raven.js:53 menulayouts/raven.js:219 menuWidgets.js:1103
+#: menuWidgets.js:1537 menuWidgets.js:1631 menuWidgets.js:2346
+#: menuWidgets.js:2469 menuWidgets.js:2660
+msgid "All Programs"
+msgstr "Všetky programy"
+
+#: constants.js:297
+msgid "Brisk Menu Style"
+msgstr "Štýl ponuky Brisk"
+
+#: constants.js:298
+msgid "Whisker Menu Style"
+msgstr "Štýl ponuky Whisker"
+
+#: constants.js:299
+msgid "GNOME Menu Style"
+msgstr "Štýl ponuky prostredia GNOME"
+
+#: constants.js:300
+msgid "Mint Menu Style"
+msgstr "Štýl ponuky systému Mint"
+
+#: constants.js:301
+msgid "Budgie Style"
+msgstr "Štýl prostredia Budgie"
+
+#: constants.js:304
+msgid "Ubuntu Dash Style"
+msgstr "Štýl lišty systému Ubuntu"
+
+#: constants.js:305
+msgid "Plasma Style"
+msgstr "Štýl prostredia Plasma"
+
+#: constants.js:306
+msgid "tognee Menu"
+msgstr "Ponuka tognee"
+
+#: constants.js:307
+msgid "Insider Menu"
+msgstr ""
+
+#: constants.js:308
+msgid "Redmond Menu Style"
+msgstr ""
+
+#: constants.js:309
+msgid "Windows 10 Style"
+msgstr "Štýl systému Windows 10"
+
+#: constants.js:312
+msgid "Elementary Menu Style"
+msgstr ""
+
+#: constants.js:313
+msgid "Chromebook Style"
+msgstr ""
+
+#: constants.js:316
+msgid "KRunner Style"
+msgstr ""
+
+#: constants.js:317
+msgid "GNOME Dash Style"
+msgstr "Štýl lišty prostredia GNOME"
+
+#: constants.js:320
+msgid "Simple Menu Style"
+msgstr "Štýl jednoduchej ponuky"
+
+#: constants.js:321
+msgid "Simple Menu 2 Style"
+msgstr "Štýl jednoduchej ponuky č. 2"
+
+#: constants.js:324
+msgid "Raven Menu Style"
+msgstr ""
+
+#: constants.js:331
+msgid "Traditional"
+msgstr "Tradičný"
+
+#: constants.js:332
+msgid ""
+"Traditional layouts use a familiar style and have a traditional user "
+"experience."
+msgstr ""
+
+#: constants.js:333
+msgid "Modern"
+msgstr "Moderný"
+
+#: constants.js:334
+msgid ""
+"Modern layouts use a style and UX based approach with a focus on design and "
+"functionality."
+msgstr ""
+
+#: constants.js:335
+msgid "Touch"
+msgstr "Dotykový"
+
+#: constants.js:336
+msgid ""
+"Touch layouts contain large menu elements that are well suited for touch "
+"based devices."
+msgstr ""
+
+#: constants.js:337
+msgid "Simple"
+msgstr "Jednoduchý"
+
+#: constants.js:338
+msgid ""
+"Simple layouts are designed for mouse based devices and contain simplistic "
+"menu elements."
+msgstr ""
+
+#: constants.js:339
+msgid "Launcher"
+msgstr ""
+
+#: constants.js:340
+msgid ""
+"Launcher layouts are well suited for keyboard driven devices and provide the "
+"user with quick and simple menu elements."
+msgstr ""
+
+#: constants.js:341
+msgid "Alternative"
+msgstr ""
+
+#: constants.js:342
+msgid ""
+"Alternative layouts have an unconventional style that provide a unique user "
+"experience."
+msgstr ""
+
+#: menuButton.js:734
+msgid "Dash to Panel Settings"
+msgstr ""
+
+#: menuButton.js:741
+msgid "Dash to Dock Settings"
+msgstr ""
+
+#: menuButton.js:745
+msgid "Ubuntu Dock Settings"
+msgstr ""
+
+#: search.js:870
+msgid "Searching..."
+msgstr "Hľadá sa…"
+
+#: search.js:872
+msgid "No results."
+msgstr "Žiadne výsledky."
+
+#: search.js:1052
+#, javascript-format
+msgid "%d more"
+msgid_plural "%d more"
+msgstr[0] "%d ďalší"
+msgstr[1] "%d ďalšie"
+msgstr[2] "%d ďalších"
+
+#: menulayouts/tognee.js:155 menulayouts/redmond.js:174
+#: menulayouts/baseMenuLayout.js:416 menulayouts/baseMenuLayout.js:418
+#: menulayouts/arcmenu.js:182 menulayouts/plasma.js:180
+#: menulayouts/ubuntudash.js:196 menulayouts/ubuntudash.js:240
+#: menulayouts/windows.js:146 menulayouts/mint.js:226 menulayouts/raven.js:178
+msgid "Software"
+msgstr "Softvér"
+
+#: menulayouts/tognee.js:155 menulayouts/redmond.js:174
+#: menulayouts/insider.js:218 menulayouts/arcmenu.js:182
+#: menulayouts/plasma.js:180 menulayouts/ubuntudash.js:196
+#: menulayouts/windows.js:146 menulayouts/mint.js:222 menulayouts/raven.js:178
+#: menuWidgets.js:1240
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: menulayouts/tognee.js:155 menulayouts/redmond.js:174
+#: menulayouts/arcmenu.js:182 menulayouts/plasma.js:180
+#: menulayouts/ubuntudash.js:196 menulayouts/windows.js:146
+#: menulayouts/mint.js:221 menulayouts/raven.js:178 menuWidgets.js:1929
+msgid "Terminal"
+msgstr "Terminál"
+
+#: menulayouts/tognee.js:155 menulayouts/redmond.js:174
+#: menulayouts/arcmenu.js:182 menulayouts/plasma.js:180
+#: menulayouts/ubuntudash.js:196 menulayouts/windows.js:146
+#: menulayouts/raven.js:178 menuWidgets.js:762
+msgid "Activities Overview"
+msgstr "Prehľad aktivít"
+
+#: menulayouts/tweaks/tweaks.js:93
+msgid "Category Activation"
+msgstr "Aktivácia kategórie"
+
+#: menulayouts/tweaks/tweaks.js:99
+msgid "Mouse Click"
+msgstr "Kliknutie myšou"
+
+#: menulayouts/tweaks/tweaks.js:100
+msgid "Mouse Hover"
+msgstr "Zotrvanie myšou"
+
+#: menulayouts/tweaks/tweaks.js:119
+msgid "Avatar Icon Shape"
+msgstr "Tvar ikony podobizne"
+
+#: menulayouts/tweaks/tweaks.js:124
+msgid "Circular"
+msgstr "Kruhový"
+
+#: menulayouts/tweaks/tweaks.js:125
+msgid "Square"
+msgstr "Štvorcový"
+
+#: menulayouts/tweaks/tweaks.js:140 menulayouts/tweaks/tweaks.js:197
+msgid "Searchbar Location"
+msgstr "Umiestnenie lišty vyhľadávania"
+
+#: menulayouts/tweaks/tweaks.js:146 menulayouts/tweaks/tweaks.js:203
+msgid "Bottom"
+msgstr "Na spodku"
+
+#: menulayouts/tweaks/tweaks.js:147 menulayouts/tweaks/tweaks.js:204
+#: menulayouts/tweaks/tweaks.js:396
+msgid "Top"
+msgstr "Navrchu"
+
+#: menulayouts/tweaks/tweaks.js:160
+msgid "Flip Layout Horizontally"
+msgstr "Preklopiť rozloženie vodorovne"
+
+#: menulayouts/tweaks/tweaks.js:177
+msgid "Disable User Avatar"
+msgstr "Zakázať podobizeň používateľa"
+
+#: menulayouts/tweaks/tweaks.js:216
+msgid "Activate on Hover"
+msgstr "Aktivovať pri zotrvaní"
+
+#: menulayouts/tweaks/tweaks.js:232
+msgid "Show Application Descriptions"
+msgstr "Zobraziť popisy aplikácií"
+
+#: menulayouts/tweaks/tweaks.js:248
+msgid "Selected Button Border Color"
+msgstr "Farba okraja vybraného tlačidla"
+
+#: menulayouts/tweaks/tweaks.js:266
+msgid "Selected Button Background Color"
+msgstr "Farba pozadia vybraného tlačidla"
+
+#: menulayouts/tweaks/tweaks.js:323 menulayouts/tweaks/tweaks.js:490
+#: menulayouts/tweaks/tweaks.js:631
+msgid "Save"
+msgstr "Uložiť"
+
+#: menulayouts/tweaks/tweaks.js:344
+msgid "Brisk Menu Shortcuts"
+msgstr "Skratky ponuky Brisk"
+
+#: menulayouts/tweaks/tweaks.js:372
+msgid "Enable Activities Overview Shortcut"
+msgstr "Povoliť skratku prehľadu aktivít"
+
+#: menulayouts/tweaks/tweaks.js:391
+msgid "KRunner Position"
+msgstr ""
+
+#: menulayouts/tweaks/tweaks.js:397
+msgid "Centered"
+msgstr "Zarovnané na stred"
+
+#: menulayouts/tweaks/tweaks.js:408 menulayouts/tweaks/tweaks.js:590
+msgid "Show Extra Large Icons with App Descriptions"
+msgstr "Zobraziť extra veľké ikony s popismi aplikácií"
+
+#: menulayouts/tweaks/tweaks.js:432
+msgid "Buttons"
+msgstr "Tlačidlá"
+
+#: menulayouts/tweaks/tweaks.js:440 menulayouts/tweaks/tweaks.js:569
+#: menulayouts/tweaks/tweaks.js:893 menulayouts/tweaks/tweaks.js:923
+msgid "Default Screen"
+msgstr "Predvolená obrazovka"
+
+#: menulayouts/tweaks/tweaks.js:445 menulayouts/tweaks/tweaks.js:574
+#: menuWidgets.js:1098 menuWidgets.js:2342 menuWidgets.js:2465
+#: menuWidgets.js:2656
+msgid "Home Screen"
+msgstr "Domovská obrazovka"
+
+#: menulayouts/tweaks/tweaks.js:511
+msgid "Ubuntu Dash Buttons"
+msgstr "Tlačidlá lišty systému Ubuntu"
+
+#: menulayouts/tweaks/tweaks.js:520
+msgid "Button Separator Position"
+msgstr "Pozícia oddeľovača tlačidiel"
+
+#: menulayouts/tweaks/tweaks.js:529 menulayouts/tweaks/tweaks.js:664
+msgid "Separator Position"
+msgstr "Pozícia oddeľovača"
+
+#: menulayouts/tweaks/tweaks.js:548 menulayouts/tweaks/tweaks.js:683
+msgid "Adjust the position of the separator in the button panel"
+msgstr "Upravte pozíciu oddeľovača v paneli tlačidiel"
+
+#: menulayouts/tweaks/tweaks.js:619
+msgid "Mint Menu Shortcuts"
+msgstr "Skratky ponuky Mint"
+
+#: menulayouts/tweaks/tweaks.js:655
+msgid "Shortcut Separator Position"
+msgstr "Pozícia oddeľovača skratiek"
+
+# tooltip
+#: menulayouts/tweaks/tweaks.js:746
+msgid "Change"
+msgstr "Zmení"
+
+#: menulayouts/tweaks/tweaks.js:879
+msgid "Nothing Yet!"
+msgstr "Zatiaľ nič!"
+
+# tooltip
+#: menulayouts/tweaks/tweaks.js:900
+msgid "Choose the default screen for tognee Layout"
+msgstr "Zvolí predvolenú obrazovku pre rozloženie ponuky tognee"
+
+#: menulayouts/tweaks/tweaks.js:902 menulayouts/tweaks/tweaks.js:933
+msgid "Categories List"
+msgstr "Zoznam kategórií"
+
+# tooltip
+#: menulayouts/tweaks/tweaks.js:930
+msgid "Choose the default screen for ArcMenu"
+msgstr "Zvolí predvolenú obrazovku pre rozšírenie ArcMenu"
+
+#: menulayouts/tweaks/tweaks.js:966
+msgid "Enable Weather Widget"
+msgstr "Povoliť miniaplikáciu Počasie"
+
+#: menulayouts/tweaks/tweaks.js:984
+msgid "Enable Clock Widget"
+msgstr "Povoliť miniaplikáciu Hodiny"
+
+#: menulayouts/insider.js:70 menulayouts/insider.js:213
+#: menulayouts/baseMenuLayout.js:348 menulayouts/ubuntudash.js:235
+#: menulayouts/windows.js:71 menulayouts/mint.js:228
+msgid "Documents"
+msgstr "Dokumenty"
+
+#: menulayouts/baseMenuLayout.js:348 menulayouts/ubuntudash.js:236
+msgid "Downloads"
+msgstr "Stiahnuté"
+
+#: menulayouts/baseMenuLayout.js:348
+msgid "Music"
+msgstr "Hudba"
+
+#: menulayouts/baseMenuLayout.js:348
+msgid "Pictures"
+msgstr "Obrázky"
+
+#: menulayouts/baseMenuLayout.js:348
+msgid "Videos"
+msgstr "Videá"
+
+#: menulayouts/baseMenuLayout.js:348 menulayouts/baseMenuLayout.js:404
+#: menulayouts/plasma.js:307 menulayouts/windows.js:208
+msgid "Network"
+msgstr "Sieť"
+
+#: menulayouts/plasma.js:149 menuWidgets.js:1283
+msgid "Leave"
+msgstr "Opustiť"
+
+#: menulayouts/plasma.js:276 menulayouts/windows.js:331
+msgid "Application Shortcuts"
+msgstr "Skratky aplikácií"
+
+#: menulayouts/plasma.js:280 menulayouts/windows.js:335
+msgid "Places"
+msgstr "Miesta"
+
+#: menulayouts/plasma.js:299 menulayouts/windows.js:200
+msgid "Devices"
+msgstr "Zariadenia"
+
+#: menulayouts/plasma.js:341 menulayouts/windows.js:247
+msgid "Session"
+msgstr "Relácia"
+
+#: menulayouts/plasma.js:350 menulayouts/windows.js:256
+msgid "System"
+msgstr "Systém"
+
+#: menulayouts/plasma.js:357 menulayouts/windows.js:262
+msgid "Restart..."
+msgstr "Reštartovať…"
+
+#: menulayouts/plasma.js:361 menulayouts/windows.js:266
+msgid "Power Off..."
+msgstr "Vypnúť…"
+
+#: menulayouts/ubuntudash.js:244 menulayouts/mint.js:230
+msgid "Files"
+msgstr "Súbory"
+
+#: prefsWidgets.js:321
+msgid "Included Layouts"
+msgstr "Zahrnuté rozloženia"
+
+# tooltip
+#: prefsWidgets.js:368
+msgid "Browse all"
+msgstr "Prehliada všetky"
+
+#: prefsWidgets.js:374
+msgid "Information"
+msgstr "Informácie"
+
+#: menuWidgets.js:163
+msgid "Open Folder Location"
+msgstr "Otvoriť umiestnenie priečinku"
+
+#: menuWidgets.js:179
+msgid "Current Windows:"
+msgstr "Aktuálne okná:"
+
+#: menuWidgets.js:197
+msgid "New Window"
+msgstr "Nové okno"
+
+#: menuWidgets.js:207
+msgid "Launch using Dedicated Graphics Card"
+msgstr "Spustiť pomocou vyhradenej grafickej karty"
+
+#: menuWidgets.js:252
+msgid "Delete Desktop Shortcut"
+msgstr "Odstrániť skratku Pracovná plocha"
+
+#: menuWidgets.js:260
+msgid "Create Desktop Shortcut"
+msgstr "Vytvoriť skratku Pracovná plocha"
+
+#: menuWidgets.js:274
+msgid "Remove from Favorites"
+msgstr "Odstrániť z obľúbených"
+
+#: menuWidgets.js:280
+msgid "Add to Favorites"
+msgstr "Pridať do obľúbených"
+
+#: menuWidgets.js:297 menuWidgets.js:346
+msgid "Unpin from ArcMenu"
+msgstr "Zrušiť pripnutie z rozšírenia ArcMenu"
+
+#: menuWidgets.js:311
+msgid "Pin to ArcMenu"
+msgstr "Pripnúť k ponuke ArcMenu"
+
+#: menuWidgets.js:324
+msgid "Show Details"
+msgstr "Zobraziť podrobnosti"
+
+#: menuWidgets.js:1272
+msgid "Extras"
+msgstr "Navyše"
+
+#: menuWidgets.js:1304
+msgid "Users"
+msgstr "Používatelia"
+
+#: menuWidgets.js:2185
+msgid "New"
+msgstr "Nový"
+
+#: menuWidgets.js:3189
+msgid "Show Applications"
+msgstr "Zobraziť aplikácie"
+
+#: menuWidgets.js:3416
+msgid "Add world clocks…"
+msgstr "Pridať svetové časy…"
+
+#: menuWidgets.js:3417
+msgid "World Clocks"
+msgstr "Svetové časy"
+
+#: menuWidgets.js:3525
+msgid "Weather"
+msgstr "Počasie"
+
+#: menuWidgets.js:3645
+msgid "Select a location…"
+msgstr "Vybrať umiestnenie…"
+
+#: menuWidgets.js:3658
+msgid "Loading…"
+msgstr "Načítava sa…"
+
+#: menuWidgets.js:3668
+msgid "Go online for weather information"
+msgstr "Aby sa mohli zobraziť informácie o počasí, musíte sa pripojiť"
+
+#: menuWidgets.js:3670
+msgid "Weather information is currently unavailable"
+msgstr "Informácie o počasí nie sú momentálne dostupné"

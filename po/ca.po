@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Jordi Mas <jmas@softcatala.org>, 2019
+# Jordi Mas <jmas@softcatala.org>, 2019, 2021
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-29 14:31+0200\n"
-"PO-Revision-Date: 2019-09-29 14:33+0200\n"
+"POT-Creation-Date: 2020-02-08 10:28-0500\n"
+"PO-Revision-Date: 2020-02-26 22:07+0100\n"
 "Last-Translator: Jordi Mas <jmas@softcatala.org>\n"
 "Language-Team: \n"
 "Language: ca\n"
@@ -16,562 +16,1513 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.4\n"
 
-#: prefs.js:49 prefs.js:664
-msgid "Pinned Apps"
-msgstr "Aplicacions ancorades"
-
-#: prefs.js:54
-msgid "Your Pinned Apps:"
-msgstr "Aplicacions ancorades:"
-
-#: prefs.js:78
-msgid "Add More Apps"
-msgstr "Afegeix més aplicacions"
-
-#: prefs.js:122
-msgid "Add Custom Shortcut"
-msgstr "Afegeix drecera personalitzada"
-
-#: prefs.js:156 prefs.js:495
-msgid "Save"
-msgstr "Desa"
-
-#: prefs.js:309
-msgid "Select Apps to add to Pinned Apps List"
-msgstr "Seleccioneu aplicacions per a afegir a la llista d'Aplicacions ancorades"
-
-#: prefs.js:329 prefs.js:495
-msgid "Add"
-msgstr "Afegeix"
-
-#: prefs.js:441
-msgid "Edit Pinned App"
-msgstr "Edita les aplicacions ancorades"
-
-#: prefs.js:441
-msgid "Add a Custom Shortcut"
-msgstr "Afegeix una drecera personalitzada"
-
-#: prefs.js:451
-msgid "Shortcut Name:"
-msgstr "Nom de la drecera"
-
-#: prefs.js:466
-msgid "Icon Path/Icon Symbolic:"
-msgstr "Camí de  la icona/Icona simbòlica:"
-
-#: prefs.js:481
-msgid "Terminal Command:"
-msgstr "Ordre del terminal:"
-
-#: prefs.js:535
-msgid "General"
-msgstr "General"
-
-#: prefs.js:544
-msgid "Menu Button Position in Panel"
-msgstr "Posició del botó del menú al quadre"
-
-#: prefs.js:551
-msgid "Left"
-msgstr "Esquerra"
-
-#: prefs.js:554
-msgid "Center"
-msgstr "Central"
-
-#: prefs.js:558
-msgid "Right"
-msgstr "Dreta"
-
-#: prefs.js:596
-msgid "Display on all monitors when using Dash to Panel"
-msgstr "Mostra a tots els monitors usant «Dash to Panel»"
-
-#: prefs.js:617
-msgid "Disable Tooltips"
-msgstr "Inhabilita els indicadors de funció"
-
-#: prefs.js:639
-msgid "Disable activities hot corner"
-msgstr "Inhabilita la cantonada sensible d'activitats"
-
-#: prefs.js:658
-msgid "Choose Arc Menus Default View"
-msgstr "Trieu la vista per defecte de l'Arc Menu"
-
-#: prefs.js:665
-msgid "Categories List"
-msgstr "Llista de categories"
-
-#: prefs.js:690
-msgid "Set Menu Hotkey"
-msgstr "Estableix tecla de drecera"
-
-#: prefs.js:700
-msgid "Left Super Key"
-msgstr "Tecla Súper esquerra"
-
-#: prefs.js:706
-msgid "Right Super Key"
-msgstr "Tecla Súper dreta"
-
-#: prefs.js:711
-msgid "Custom"
-msgstr "Personalitzada"
-
-#: prefs.js:716
-msgid "None"
-msgstr "No disponible"
-
-#: prefs.js:810
-msgid "Current Hotkey"
-msgstr "Tecla de drecera actual"
-
-#: prefs.js:837
-msgid "Set Custom Shortcut"
-msgstr "Estableix la drecera personalitzada"
-
-#: prefs.js:846
-msgid "Press a key"
-msgstr "Premeu una tecla"
-
-#: prefs.js:871
-msgid "Modifiers"
-msgstr "Modificadors"
-
-#: prefs.js:876
-msgid "Ctrl"
-msgstr "Control"
-
-#: prefs.js:881
-msgid "Super"
-msgstr "Súper"
-
-#: prefs.js:885
-msgid "Shift"
-msgstr "Maj"
-
-#: prefs.js:889
-msgid "Alt"
-msgstr "Alt"
-
-#: prefs.js:953 prefs.js:1454 prefs.js:1665 prefs.js:1970
-msgid "Apply"
-msgstr "Aplica"
-
-#: prefs.js:988
-msgid "Button appearance"
-msgstr "Aparença del botó"
-
-#: prefs.js:1000
-msgid "Text for the menu button"
-msgstr "Text pel botó del menú"
-
-#: prefs.js:1006
-msgid "System text"
-msgstr "Text del sistema"
-
-#: prefs.js:1009
-msgid "Custom text"
-msgstr "Text personalitzat"
-
-#: prefs.js:1033
-msgid "Set custom text for the menu button"
-msgstr "Estableix el text pel botó del menú"
-
-#: prefs.js:1053
-msgid "Enable the arrow icon beside the button text"
-msgstr "Habilita la icona de la fletxa al costat del text del botó"
-
-#: prefs.js:1075
-msgid "Select icon for the menu button"
-msgstr "Seleccioneu una icona pel botó del menú"
-
-#: prefs.js:1085
-msgid "Please select an image icon"
-msgstr "Seleccioneu una imatge com a icona"
-
-#: prefs.js:1090
-msgid "Arc Menu Icon"
-msgstr "Icona de l'Arc Menu"
-
-#: prefs.js:1091
-msgid "System Icon"
-msgstr "Icona del sistema"
-
-#: prefs.js:1092
-msgid "Custom Icon"
-msgstr "Icona personalitzada"
-
-#: prefs.js:1118
-msgid "Icon size"
-msgstr "Mida d'icona"
-
-#: prefs.js:1118
-msgid "default is"
-msgstr "per defecte és"
-
-#: prefs.js:1158
-msgid "Appearance"
-msgstr "Aparença"
-
-#: prefs.js:1167
-msgid "Customize Menu Button Appearance"
-msgstr "Personalitza l'aparença del botó del menú"
-
-#: prefs.js:1177
-msgid "Icon"
-msgstr "Icona"
-
-#: prefs.js:1178
-msgid "Text"
-msgstr "Text"
-
-#: prefs.js:1179
-msgid "Icon and Text"
-msgstr "Icona i text"
-
-#: prefs.js:1180
-msgid "Text and Icon"
-msgstr "Text i icones"
-
-#: prefs.js:1203 prefs.js:1521
-msgid "Customize Arc Menu Appearance"
-msgstr "Personalitza l'aparença del menú de l'Arc"
-
-#: prefs.js:1251 prefs.js:1714
-msgid "Override Arc Menu Theme"
-msgstr "Sobreescriu el tema del menú de l'Arc"
-
-#: prefs.js:1309
-msgid "Choose Avatar Icon Shape"
-msgstr "Seleccioneu la forma de la icona de l'avatar"
-
-#: prefs.js:1314
-msgid "Circular"
-msgstr "Circular"
-
-#: prefs.js:1315
-msgid "Square"
-msgstr "Quadrat"
-
-#: prefs.js:1333
-msgid "Choose Menu Layout"
-msgstr "Trieu la disposició del menú"
-
-#: prefs.js:1365
-msgid "Current Layout"
-msgstr "Disposició actual"
-
-#: prefs.js:1384
-msgid ""
-"Each layout is different in behaviour and style.\n"
-"All layouts can be modified by customization settings.\n"
-"However, some settings are specifc to Arc Menu layout."
-msgstr ""
-"Cada disposició és diferent en comportament i estil.\n"
-"Totes les disposicions es poden modificar personalitzant els paràmetres.\n"
-"Tanmateix, alguns paràmetres són específics a la disposició de l'Arc Menu."
-
-#: prefs.js:1412
-msgid "Menu style chooser"
-msgstr "Selector de l'estil del menú"
-
-#: prefs.js:1421
-msgid "Arc Menu Layout"
-msgstr "Disposició de l'Arc Menu"
-
-#: prefs.js:1539
-msgid "Menu Height"
-msgstr "Alçada del menú"
-
-#: prefs.js:1571
-msgid "Left-Panel Width"
-msgstr "Amplada del quadre esquerre"
-
-#: prefs.js:1594
-msgid "Enable Vertical Separator"
-msgstr "Habilita el separador vertical"
-
-#: prefs.js:1613
-msgid "Separator Color"
-msgstr "Color del separador"
-
-#: prefs.js:1635 prefs.js:1922
-msgid "Reset"
-msgstr "Reinicia"
-
-#: prefs.js:1726
-msgid "Menu Background Color"
-msgstr "Color de fons del menú"
-
-#: prefs.js:1745
-msgid "Menu Foreground Color"
-msgstr "Color de primer pla del menú"
-
-#: prefs.js:1763
-msgid "Font Size"
-msgstr "Mida de la lletra"
-
-#: prefs.js:1787
-msgid "Border Color"
-msgstr "Color del contorn"
-
-#: prefs.js:1806
-msgid "Border Size"
-msgstr "Mida de la vora"
-
-#: prefs.js:1830
-msgid "Highlighted Item Color"
-msgstr "Color de l'ítem ressaltat"
-
-#: prefs.js:1849
-msgid "Corner Radius"
-msgstr "Radi de la cantonada"
-
-#: prefs.js:1873
-msgid "Menu Arrow Size"
-msgstr "Mida de la fletxa del menú"
-
-#: prefs.js:1897
-msgid "Menu Displacement"
-msgstr "Desplaçament del menú"
-
-#: prefs.js:2004
-msgid "Configure"
-msgstr "Configuració"
-
-#: prefs.js:2011
-msgid "Enable/Disable shortcuts"
-msgstr "Habilita o inhabilita dreceres"
-
-#: prefs.js:2021 placeDisplay.js:451
-msgid "Home"
-msgstr "Carpeta de l’usuari"
-
-#: prefs.js:2021
-msgid "Documents"
-msgstr "Documents"
-
-#: prefs.js:2021
-msgid "Downloads"
-msgstr "Baixades"
-
-#: prefs.js:2021
-msgid "Music"
-msgstr "Música"
-
-#: prefs.js:2021
-msgid "Pictures"
-msgstr "Imatges"
-
-#: prefs.js:2021
-msgid "Videos"
-msgstr "Vídeos"
-
-#: prefs.js:2021 placeDisplay.js:241 placeDisplay.js:264
-msgid "Computer"
-msgstr "Ordinador"
-
-#: prefs.js:2022
-msgid "Network"
-msgstr "Xarxa"
-
-#: prefs.js:2066
-msgid "External Devices"
-msgstr "Dispositius externs"
-
-#: prefs.js:2089
-msgid "Bookmarks"
-msgstr "Marcadors"
-
-#: prefs.js:2117 menuWidgets.js:557
-msgid "Software"
-msgstr "Programari"
-
-#: prefs.js:2117 menuWidgets.js:582
-msgid "Settings"
-msgstr "Paràmetres"
-
-#: prefs.js:2117
-msgid "Tweaks"
-msgstr "Ajustaments"
-
-#: prefs.js:2117 menuWidgets.js:569 menuWidgets.js:866
-msgid "Terminal"
-msgstr "Terminal"
-
-#: prefs.js:2117 menuWidgets.js:382
-msgid "Activities Overview"
-msgstr "Vista general d'activitats"
-
-#: prefs.js:2161 menuWidgets.js:632
-msgid "Suspend"
-msgstr "Atura temporalment"
-
-#: prefs.js:2179 menuWidgets.js:650
-msgid "Lock"
-msgstr "Bloca"
-
-#: prefs.js:2197 menuWidgets.js:619
-msgid "Log Out"
-msgstr "Tanca sessió"
-
-#: prefs.js:2215 menuWidgets.js:606
-msgid "Power Off"
-msgstr "Apaga"
-
-#: prefs.js:2248
-msgid "Misc"
-msgstr "Miscel·lània"
-
-#: prefs.js:2254
-msgid "Export and Import Arc Menu Settings"
-msgstr "Export i importa els paràmetres de l'Arc Menu"
-
-#: prefs.js:2262
-msgid "Import from File"
-msgstr "Importa des del fitxer"
-
-#: prefs.js:2268
-msgid "Import settings"
-msgstr "Importa els paràmetres"
-
-#: prefs.js:2297
-msgid "Export to File"
-msgstr "Exporta al fitxer"
-
-#: prefs.js:2304
-msgid "Export settings"
-msgstr "Exporta els paràmetres"
-
-#: prefs.js:2363
-msgid "About"
-msgstr "Quant a"
-
-#: prefs.js:2392
-msgid "Arc-Menu"
-msgstr "Arc-Menu"
-
-#: prefs.js:2397
-msgid "version: "
-msgstr "versió: "
-
-#: prefs.js:2405
-msgid "GitLab Page"
-msgstr "Pàgina del GitLab"
-
-#: menu.js:85 menuWidgets.js:865
-msgid "Arc Menu Settings"
-msgstr "Paràmetres de l'Arc Menu"
-
-#: menu.js:94
-msgid "Arc Menu on GitLab"
-msgstr "Menú de l'Arc a Gitlab"
-
-#: menu.js:99
-msgid "About Arc Menu"
-msgstr "Quant a l'Arc a Gitlab"
-
-#: menu.js:219
-msgid "Dash to Panel Settings"
-msgstr "Paràmetres del «Dash to Panel»"
-
-#: menuWidgets.js:132
-msgid "Open Folder Location"
-msgstr "Obre la ubicació de la carpeta"
-
-#: menuWidgets.js:148
-msgid "Current Windows:"
-msgstr "Finestres actuals:"
-
-#: menuWidgets.js:167
-msgid "New Window"
-msgstr "Finestra nova"
-
-#: menuWidgets.js:177
-msgid "Launch using Dedicated Graphics Card"
-msgstr "Inicia usant una targeta gràfica dedicada"
-
-#: menuWidgets.js:200
-msgid "Remove from Favorites"
-msgstr "Suprimeix dels favorits"
-
-#: menuWidgets.js:206
-msgid "Add to Favorites"
-msgstr "Afegeix als favorits"
-
-#: menuWidgets.js:227 menuWidgets.js:279
-msgid "Unpin from Arc Menu"
-msgstr "Ancora a l'Arc Menu"
-
-#: menuWidgets.js:241
-msgid "Pin to Arc Menu"
-msgstr "Desancora a l'Arc Menu"
-
-#: menuWidgets.js:254
-msgid "Show Details"
-msgstr "Mostra les dades"
-
-#: menuWidgets.js:533
-msgid "Firefox"
-msgstr "Firefox"
-
-#: menuWidgets.js:545
-msgid "Files"
-msgstr "Fitxers"
-
-#: menuWidgets.js:594
-msgid "Users"
-msgstr "Usuaris"
-
-#: menuWidgets.js:674
-msgid "Back"
-msgstr "Enrere"
-
-#: menuWidgets.js:732 menuWidgets.js:1427 menuWidgets.js:1560
-#: menuWidgets.js:1706
-msgid "All Programs"
-msgstr "Tots els programes"
-
-#: menuWidgets.js:1427 menuWidgets.js:1560 menuWidgets.js:1706
-msgid "Favorites"
-msgstr "Preferits"
-
-#: menuWidgets.js:1430 menuWidgets.js:1563 menuWidgets.js:1709
-msgid "Frequent Apps"
-msgstr "Aplicacions freqüents"
-
-#: menuWidgets.js:1879
-msgid "Type to search…"
-msgstr "Teclegeu per cercar…"
-
-#: menuWidgets.js:2042 controller.js:308
-msgid "Applications"
-msgstr "Aplicacions"
-
-#: search.js:662
+#: search.js:725 searchGrid.js:750
 msgid "Searching..."
 msgstr "S'està cercant..."
 
-#: search.js:664
+#: search.js:727 searchGrid.js:752
 msgid "No results."
 msgstr "Cap resultat."
 
-#: placeDisplay.js:142
+#: search.js:831 searchGrid.js:890
+#, javascript-format
+msgid "%d more"
+msgid_plural "%d more"
+msgstr[0] "%d més"
+msgstr[1] "%d més"
+
+#: menulayouts/raven.js:215 menulayouts/mint.js:501 menulayouts/brisk.js:194
+#: menulayouts/arcmenu.js:243 menulayouts/redmond.js:233
+#: menulayouts/ubuntudash.js:301 menulayouts/ubuntudash.js:325
+msgid "Software"
+msgstr "Programari"
+
+#: menulayouts/raven.js:215 menulayouts/mint.js:486 menulayouts/brisk.js:202
+#: menulayouts/arcmenu.js:243 menulayouts/redmond.js:233
+#: menulayouts/windows.js:284 menulayouts/ubuntudash.js:325 menuWidgets.js:785
+msgid "Settings"
+msgstr "Paràmetres"
+
+#: menulayouts/raven.js:215 menulayouts/arcmenu.js:243
+#: menulayouts/redmond.js:233 menulayouts/ubuntudash.js:325 prefs.js:2203
+#: prefs.js:2232 prefs.js:2237 prefs.js:2271 prefs.js:2283
+msgid "Tweaks"
+msgstr "Ajustaments"
+
+#: menulayouts/raven.js:215 menulayouts/mint.js:485 menulayouts/arcmenu.js:243
+#: menulayouts/redmond.js:233 menulayouts/ubuntudash.js:325
+#: menuWidgets.js:1326 menuWidgets.js:1524
+msgid "Terminal"
+msgstr "Terminal"
+
+#: menulayouts/raven.js:215 menulayouts/arcmenu.js:243
+#: menulayouts/redmond.js:233 menulayouts/ubuntudash.js:325 menuWidgets.js:453
+msgid "Activities Overview"
+msgstr "Vista general d'activitats"
+
+#: menulayouts/raven.js:215 menulayouts/arcmenu.js:243
+#: menulayouts/redmond.js:233 menulayouts/ubuntudash.js:325 menuWidgets.js:798
+#: menuWidgets.js:1322 menuWidgets.js:1520 menuButtonPanel.js:597
+#: menuButtonDash.js:562 prefs.js:376 prefs.js:537
+msgid "Arc Menu Settings"
+msgstr "Paràmetres de l'Arc Menu"
+
+#: menulayouts/raven.js:223 menulayouts/tweaks/tweaks.js:188
+#: menulayouts/tweaks/tweaks.js:308 menulayouts/ubuntudash.js:333
+#: prefs.js:4258
+msgid "Shortcuts"
+msgstr "Dreceres"
+
+#: menulayouts/raven.js:415 menulayouts/tweaks/tweaks.js:603
+#: menulayouts/ubuntudash.js:587 prefs.js:41 prefs.js:826
+msgid "Pinned Apps"
+msgstr "Aplicacions ancorades"
+
+#: menulayouts/raven.js:476 menulayouts/ubuntudash.js:659 menuWidgets.js:687
+#: menuWidgets.js:1954 menuWidgets.js:2091 menuWidgets.js:2290
+msgid "Frequent Apps"
+msgstr "Aplicacions freqüents"
+
+#: menulayouts/raven.js:583 menulayouts/ubuntudash.js:767 menuWidgets.js:683
+#: menuWidgets.js:1037 menuWidgets.js:1951 menuWidgets.js:2088
+#: menuWidgets.js:2287
+msgid "All Programs"
+msgstr "Tots els programes"
+
+#: menulayouts/mint.js:417 menulayouts/arcmenu.js:511
+#: menulayouts/arcmenu.js:518 menulayouts/redmond.js:415
+#: menulayouts/redmond.js:422 menulayouts/ubuntudash.js:237
+#: menulayouts/ubuntudash.js:284 placeDisplay.js:452
+msgid "Home"
+msgstr "Carpeta de l’usuari"
+
+#: menulayouts/mint.js:425 menulayouts/arcmenu.js:511
+#: menulayouts/arcmenu.js:526 menulayouts/redmond.js:415
+#: menulayouts/redmond.js:430 menulayouts/ubuntudash.js:245
+msgid "Network"
+msgstr "Xarxa"
+
+#: menulayouts/mint.js:502 menulayouts/ubuntudash.js:302
+msgid "Files"
+msgstr "Fitxers"
+
+#: menulayouts/mint.js:503 menulayouts/ubuntudash.js:303 menuWidgets.js:918
+#: prefs.js:4216
+msgid "Log Out"
+msgstr "Tanca sessió"
+
+#: menulayouts/mint.js:504 menulayouts/ubuntudash.js:304 menuWidgets.js:950
+#: prefs.js:4199
+msgid "Lock"
+msgstr "Bloca"
+
+#: menulayouts/mint.js:505 menulayouts/ubuntudash.js:305 menuWidgets.js:906
+#: prefs.js:4233
+msgid "Power Off"
+msgstr "Apaga"
+
+#: menulayouts/tweaks/tweaks.js:86
+msgid "Category Activation"
+msgstr "Activació de la categoria"
+
+#: menulayouts/tweaks/tweaks.js:92
+msgid "Mouse Click"
+msgstr "Clic del ratolí"
+
+#: menulayouts/tweaks/tweaks.js:93
+#, fuzzy
+msgid "Mouse Hover"
+msgstr "En passar el ratolí per sobre"
+
+#: menulayouts/tweaks/tweaks.js:112
+#, fuzzy
+msgid "Avatar Icon Shape"
+msgstr "Seleccioneu la forma de la icona de l'avatar"
+
+#: menulayouts/tweaks/tweaks.js:117
+msgid "Circular"
+msgstr "Circular"
+
+#: menulayouts/tweaks/tweaks.js:118
+msgid "Square"
+msgstr "Quadrat"
+
+#: menulayouts/tweaks/tweaks.js:143
+msgid "KRunner Position"
+msgstr "Posició del KRunner"
+
+#: menulayouts/tweaks/tweaks.js:148
+msgid "Top"
+msgstr "Amunt"
+
+#: menulayouts/tweaks/tweaks.js:149
+msgid "Centered"
+msgstr "Centrat"
+
+#: menulayouts/tweaks/tweaks.js:160 menulayouts/tweaks/tweaks.js:337
+msgid "Show Extra Large Icons with App Descriptions"
+msgstr "Mostra icones extres grans amb les descripcions d'aplicacions"
+
+#: menulayouts/tweaks/tweaks.js:181 menulayouts/tweaks/tweaks.js:301
+#: prefs.js:738
+msgid "General"
+msgstr "General"
+
+#: menulayouts/tweaks/tweaks.js:191
+msgid "Buttons"
+msgstr "Botons"
+
+#: menulayouts/tweaks/tweaks.js:199 menulayouts/tweaks/tweaks.js:316
+msgid "Default Screen"
+msgstr "Pantalla per omissió"
+
+#: menulayouts/tweaks/tweaks.js:204 menulayouts/tweaks/tweaks.js:321
+#: menuWidgets.js:679 menuWidgets.js:1948
+msgid "Home Screen"
+msgstr "Pantalla d'inici"
+
+#: menulayouts/tweaks/tweaks.js:205 menulayouts/tweaks/tweaks.js:322
+msgid "All Applications"
+msgstr "Totes les aplicacions"
+
+#: menulayouts/tweaks/tweaks.js:220 prefs.js:2547
+msgid "Disable Menu Arrow"
+msgstr "Inhabilita la fletxa del menú"
+
+#: menulayouts/tweaks/tweaks.js:228 prefs.js:2555
+#, fuzzy
+msgid "Disable current theme menu arrow pointer"
+msgstr "Desactiva el punter de fletxa del menú del tema actual"
+
+#: menulayouts/tweaks/tweaks.js:249 menulayouts/tweaks/tweaks.js:370
+#: prefs.js:132 prefs.js:696 prefs.js:3769 prefs.js:4027
+msgid "Save"
+msgstr "Desa"
+
+#: menulayouts/tweaks/tweaks.js:275 menulayouts/tweaks/tweaks.js:396
+msgid "Separator Position Index"
+msgstr "Índex de posició del separador"
+
+#: menulayouts/tweaks/tweaks.js:583
+msgid "Nothing Yet!"
+msgstr "Encara res!"
+
+#: menulayouts/tweaks/tweaks.js:597 prefs.js:817
+msgid "Arc Menu Default View"
+msgstr "Vista per defecte de l'Arc Menu"
+
+#: menulayouts/tweaks/tweaks.js:604 prefs.js:827
+msgid "Categories List"
+msgstr "Llista de categories"
+
+#: menulayouts/tweaks/tweaks.js:638
+msgid "Enable Weather Widget"
+msgstr "Activa el giny de meteorologia"
+
+#: menulayouts/tweaks/tweaks.js:656
+msgid "Enable Clock Widget"
+msgstr "Activa el giny del rellotge"
+
+#: menulayouts/arcmenu.js:511 menulayouts/redmond.js:415
+#: menulayouts/windows.js:112 menulayouts/windows.js:279
+#: menulayouts/ubuntudash.js:285
+msgid "Documents"
+msgstr "Documents"
+
+#: menulayouts/arcmenu.js:511 menulayouts/redmond.js:415
+#: menulayouts/ubuntudash.js:286
+msgid "Downloads"
+msgstr "Baixades"
+
+#: menulayouts/arcmenu.js:511 menulayouts/redmond.js:415
+msgid "Music"
+msgstr "Música"
+
+#: menulayouts/arcmenu.js:511 menulayouts/redmond.js:415
+msgid "Pictures"
+msgstr "Imatges"
+
+#: menulayouts/arcmenu.js:511 menulayouts/redmond.js:415
+msgid "Videos"
+msgstr "Vídeos"
+
+#: menulayouts/arcmenu.js:511 menulayouts/redmond.js:415 placeDisplay.js:237
+#: placeDisplay.js:261
+msgid "Computer"
+msgstr "Ordinador"
+
+#: menuWidgets.js:129
+msgid "Open Folder Location"
+msgstr "Obre la ubicació de la carpeta"
+
+#: menuWidgets.js:145
+msgid "Current Windows:"
+msgstr "Finestres actuals:"
+
+#: menuWidgets.js:164
+msgid "New Window"
+msgstr "Finestra nova"
+
+#: menuWidgets.js:174
+msgid "Launch using Dedicated Graphics Card"
+msgstr "Inicia usant una targeta gràfica dedicada"
+
+#: menuWidgets.js:201
+#, fuzzy
+msgid "Delete Desktop Shortcut"
+msgstr "Estableix la drecera personalitzada"
+
+#: menuWidgets.js:209
+#, fuzzy
+msgid "Create Desktop Shortcut"
+msgstr "Estableix la drecera personalitzada"
+
+#: menuWidgets.js:223
+msgid "Remove from Favorites"
+msgstr "Suprimeix dels favorits"
+
+#: menuWidgets.js:229
+msgid "Add to Favorites"
+msgstr "Afegeix als favorits"
+
+#: menuWidgets.js:247 menuWidgets.js:298
+msgid "Unpin from Arc Menu"
+msgstr "Ancora a l'Arc Menu"
+
+#: menuWidgets.js:261
+msgid "Pin to Arc Menu"
+msgstr "Desancora a l'Arc Menu"
+
+#: menuWidgets.js:274
+msgid "Show Details"
+msgstr "Mostra les dades"
+
+#: menuWidgets.js:683 menuWidgets.js:811 menuWidgets.js:1951
+#: menuWidgets.js:2088 menuWidgets.js:2287
+msgid "Favorites"
+msgstr "Preferits"
+
+#: menuWidgets.js:826
+msgid "Categories"
+msgstr "Categories"
+
+#: menuWidgets.js:841
+msgid "Users"
+msgstr "Usuaris"
+
+#: menuWidgets.js:933 prefs.js:4182
+msgid "Suspend"
+msgstr "Atura temporalment"
+
+#: menuWidgets.js:973
+msgid "Back"
+msgstr "Enrere"
+
+#: menuWidgets.js:2548
+msgid "Type to search…"
+msgstr "Teclegeu per cercar…"
+
+#: menuWidgets.js:2718 prefs.js:3923
+msgid "Applications"
+msgstr "Aplicacions"
+
+#: menuWidgets.js:2784
+msgid "Show Applications"
+msgstr "Mostra les aplicacions"
+
+#: menuWidgets.js:2801 constants.js:157 prefs.js:4629
+msgid "Arc Menu"
+msgstr "Arc Menu"
+
+#: menuWidgets.js:3014
+msgid "Add world clocks…"
+msgstr "Afegeix rellotges del món…"
+
+#: menuWidgets.js:3015
+msgid "World Clocks"
+msgstr "Rellotges del món"
+
+#: menuWidgets.js:3124
+msgid "Weather"
+msgstr "Meteorologia"
+
+#: menuWidgets.js:3242
+msgid "Select a location…"
+msgstr "Trieu una ubicació…"
+
+#: menuWidgets.js:3255
+msgid "Loading…"
+msgstr "S'està carregant..."
+
+#: menuWidgets.js:3265
+#, fuzzy
+msgid "Go online for weather information"
+msgstr "Vés en línia per a informació sobre el temps"
+
+#: menuWidgets.js:3267
+#, fuzzy
+msgid "Weather information is currently unavailable"
+msgstr "La informació sobre el temps no està disponible"
+
+#: constants.js:162
+#, fuzzy
+msgid "Arc Menu Alt"
+msgstr "Disposició de l'Arc Menu"
+
+#: constants.js:163
+#, fuzzy
+msgid "Arc Menu Original"
+msgstr "Icona de l'Arc Menu"
+
+#: constants.js:164
+#, fuzzy
+msgid "Curved A"
+msgstr "A corbada"
+
+#: constants.js:165
+#, fuzzy
+msgid "Start Box"
+msgstr "Quadre d'inici"
+
+#: constants.js:166
+#, fuzzy
+msgid "Focus"
+msgstr "Focus"
+
+#: constants.js:167
+#, fuzzy
+msgid "Triple Dash"
+msgstr "Tash triple"
+
+#: constants.js:168
+#, fuzzy
+msgid "Whirl"
+msgstr "Torsió"
+
+#: constants.js:169
+#, fuzzy
+msgid "Whirl Circle"
+msgstr "Cercle de remolí"
+
+#: constants.js:170
+#, fuzzy
+msgid "Sums"
+msgstr "Sumas"
+
+#: constants.js:171
+#, fuzzy
+msgid "Arrow"
+msgstr "Fletxa"
+
+#: constants.js:172
+#, fuzzy
+msgid "Lins"
+msgstr "Lins"
+
+#: constants.js:173
+#, fuzzy
+msgid "Diamond Square"
+msgstr "Quadrat"
+
+#: constants.js:174
+#, fuzzy
+msgid "Octo Maze"
+msgstr "Maze Octo"
+
+#: constants.js:175
+#, fuzzy
+msgid "Search"
+msgstr "S'està cercant..."
+
+#: menuButtonPanel.js:606 menuButtonDash.js:571
+msgid "Arc Menu on GitLab"
+msgstr "Menú de l'Arc a Gitlab"
+
+#: menuButtonPanel.js:611 menuButtonDash.js:576
+msgid "About Arc Menu"
+msgstr "Quant a l'Arc a Gitlab"
+
+#: menuButtonPanel.js:619
+msgid "Dash to Panel Settings"
+msgstr "Paràmetres del «Dash to Panel»"
+
+#: menuButtonDash.js:584
+#, fuzzy
+msgid "Dash to Dock Settings"
+msgstr "Paràmetres del «Dash to Panel»"
+
+#: placeDisplay.js:138
 #, javascript-format
 msgid "Failed to launch “%s”"
 msgstr "No s'ha pogut iniciar «%s»"
 
-#: placeDisplay.js:157
+#: placeDisplay.js:153
 #, javascript-format
 msgid "Failed to mount volume for “%s”"
 msgstr "No s'ha pogut muntar el volum «%s»"
 
-#: placeDisplay.js:325
+#: placeDisplay.js:326
 #, javascript-format
 msgid "Ejecting drive “%s” failed:"
 msgstr "Ha fallat l'expulsió de la unitat «%s»:"
+
+#: prefs.js:59 prefs.js:3943
+msgid "Add More Apps"
+msgstr "Afegeix més aplicacions"
+
+#: prefs.js:67
+#, fuzzy
+msgid "Browse a list of all applications to add to your Pinned Apps list."
+msgstr ""
+"Seleccioneu aplicacions per a afegir a la llista d'Aplicacions ancorades"
+
+#: prefs.js:100 prefs.js:3723 prefs.js:3982
+msgid "Add Custom Shortcut"
+msgstr "Afegeix drecera personalitzada"
+
+#: prefs.js:108
+#, fuzzy
+msgid "Create a custom shortcut to add to your Pinned Apps list."
+msgstr ""
+"Seleccioneu aplicacions per a afegir a la llista d'Aplicacions ancorades"
+
+#: prefs.js:191 prefs.js:3835 prefs.js:4089
+#, fuzzy
+msgid "Modify"
+msgstr "Modifica"
+
+#: prefs.js:196 prefs.js:3842 prefs.js:4094
+#, fuzzy
+msgid "Move Up"
+msgstr "Mou amunt"
+
+#: prefs.js:201 prefs.js:3847 prefs.js:4099
+#, fuzzy
+msgid "Move Down"
+msgstr "Mou avall"
+
+#: prefs.js:206 prefs.js:3852 prefs.js:4104
+#, fuzzy
+msgid "Delete"
+msgstr "Suprimeix"
+
+#: prefs.js:275
+#, fuzzy
+msgid "Add to your Pinned Apps"
+msgstr "Aplicacions ancorades:"
+
+#: prefs.js:277
+#, fuzzy
+msgid "Change Selected Pinned App"
+msgstr "Canvia l'aplicació fixa seleccionada"
+
+#: prefs.js:279
+#, fuzzy
+msgid "Select Application Shortcuts"
+msgstr "Estableix la drecera personalitzada"
+
+#: prefs.js:281
+#, fuzzy
+msgid "Select Directory Shortcuts"
+msgstr "Estableix la drecera personalitzada"
+
+#: prefs.js:300 prefs.js:696
+msgid "Add"
+msgstr "Afegeix"
+
+#: prefs.js:377 prefs.js:1349
+#, fuzzy
+msgid "Run Command..."
+msgstr "Executa una ordre..."
+
+#: prefs.js:428
+#, fuzzy
+msgid "Default Apps"
+msgstr "per defecte és"
+
+#: prefs.js:432 prefs.js:507
+#, fuzzy
+msgid "System Apps"
+msgstr "Text del sistema"
+
+#: prefs.js:503
+#, fuzzy
+msgid "Presets"
+msgstr "Predefinicions"
+
+#: prefs.js:619 prefs.js:621
+msgid "Edit Pinned App"
+msgstr "Edita les aplicacions ancorades"
+
+#: prefs.js:619 prefs.js:621 prefs.js:623 prefs.js:625
+msgid "Add a Custom Shortcut"
+msgstr "Afegeix una drecera personalitzada"
+
+#: prefs.js:623
+#, fuzzy
+msgid "Edit Shortcut"
+msgstr "Edita la drecera"
+
+#: prefs.js:625
+#, fuzzy
+msgid "Edit Custom Shortcut"
+msgstr "Estableix la drecera personalitzada"
+
+#: prefs.js:633
+msgid "Shortcut Name:"
+msgstr "Nom de la drecera"
+
+#: prefs.js:648
+#, fuzzy
+msgid "Icon:"
+msgstr "Icona"
+
+#: prefs.js:661 prefs.js:1725
+msgid "Please select an image icon"
+msgstr "Seleccioneu una imatge com a icona"
+
+#: prefs.js:680
+msgid "Terminal Command:"
+msgstr "Ordre del terminal:"
+
+#: prefs.js:687
+#, fuzzy
+msgid "Shortcut Path:"
+msgstr "Nom de la drecera"
+
+#: prefs.js:753
+msgid "Disable Tooltips"
+msgstr "Inhabilita els indicadors de funció"
+
+#: prefs.js:761
+#, fuzzy
+msgid "Disable all tooltips in Arc Menu"
+msgstr "Inhabilita els indicadors de funció"
+
+#: prefs.js:776 prefs.js:1295
+#, fuzzy
+msgid "Modify Activities Hot Corner"
+msgstr "Inhabilita la cantonada sensible d'activitats"
+
+#: prefs.js:785
+#, fuzzy
+msgid "Modify the action of the Activities Hot Corner"
+msgstr "Modifica l'acció de la cantonada activa de les activitats"
+
+#: prefs.js:796
+#, fuzzy
+msgid "Override the default behavoir of the Activities Hot Corner"
+msgstr ""
+"Sobreescriu el comportament predeterminat de la cantonada activa de les "
+"activitats"
+
+#: prefs.js:824
+#, fuzzy
+msgid "Choose the default menu view for Arc Menu"
+msgstr "Trieu la vista de menú predeterminada per al menú Arc"
+
+#: prefs.js:846
+#, fuzzy
+msgid "Hotkey activation"
+msgstr "Activació de les dreceres de teclat"
+
+#: prefs.js:853
+#, fuzzy
+msgid "Choose a method for the hotkey activation"
+msgstr "Trieu un mètode per a l'activació de les dreceres de teclat"
+
+#: prefs.js:855
+#, fuzzy
+msgid "Key Release"
+msgstr "Tecla alliberada"
+
+#: prefs.js:856
+#, fuzzy
+msgid "Key Press"
+msgstr "Tecla premuda"
+
+#: prefs.js:875
+#, fuzzy
+msgid "Arc Menu Hotkey"
+msgstr "Estableix tecla de drecera"
+
+#: prefs.js:884
+msgid "Left Super Key"
+msgstr "Tecla Súper esquerra"
+
+#: prefs.js:888
+#, fuzzy
+msgid "Set Arc Menu hotkey to Left Super Key"
+msgstr "Estableix la tecla de drecera del menú Arc a la tecla Súper esquerra"
+
+#: prefs.js:891
+msgid "Right Super Key"
+msgstr "Tecla Súper dreta"
+
+#: prefs.js:896
+#, fuzzy
+msgid "Set Arc Menu hotkey to Right Super Key"
+msgstr "Estableix la tecla de drecera del menú Arc a la tecla Súper dreta"
+
+#: prefs.js:899
+#, fuzzy
+msgid "Custom Hotkey"
+msgstr "Text personalitzat"
+
+#: prefs.js:904
+#, fuzzy
+msgid "Set a custom hotkey for Arc Menu"
+msgstr "Estableix el text pel botó del menú"
+
+#: prefs.js:907
+msgid "None"
+msgstr "No disponible"
+
+#: prefs.js:912
+#, fuzzy
+msgid "Clear Arc Menu hotkey, use GNOME default"
+msgstr ""
+"Neteja la tecla de drecera del menú Arc, utilitzeu el predeterminat del "
+"GNOME"
+
+#: prefs.js:974
+msgid "Current Hotkey"
+msgstr "Tecla de drecera actual"
+
+#: prefs.js:983
+#, fuzzy
+msgid "Current custom hotkey"
+msgstr "Tecla de drecera actual"
+
+#: prefs.js:988
+#, fuzzy
+msgid "Modify Hotkey"
+msgstr "Modifica la tecla de drecera"
+
+#: prefs.js:991
+#, fuzzy
+msgid "Create your own hotkey combination for Arc Menu"
+msgstr ""
+"Creeu la vostra pròpia combinació de tecles de drecera per al menú Arc"
+
+#: prefs.js:1032
+#, fuzzy
+msgid "Display Arc Menu On"
+msgstr "Icona de l'Arc Menu"
+
+#: prefs.js:1039
+#, fuzzy
+msgid "Choose where to place Arc Menu"
+msgstr "Trieu on situar el menú Arc"
+
+#: prefs.js:1044
+#, fuzzy
+msgid "Main Panel"
+msgstr "Plafó principal"
+
+#: prefs.js:1045
+#, fuzzy
+msgid "Dash to Panel"
+msgstr "Paràmetres del «Dash to Panel»"
+
+#: prefs.js:1046
+#, fuzzy
+msgid "Dash to Dock"
+msgstr "Resum a l'acoblador"
+
+#: prefs.js:1097
+#, fuzzy
+msgid "Disable Activities Button"
+msgstr "Inhabilita la cantonada sensible d'activitats"
+
+#: prefs.js:1098
+#, fuzzy
+msgid "Dash to Dock extension not running!"
+msgstr "L'extensió «Dash» a Dock no s'està executant!"
+
+#: prefs.js:1098
+#, fuzzy
+msgid "Enable Dash to Dock for this feature to work."
+msgstr "Activa el Dash a Dock perquè aquesta característica funcioni."
+
+#: prefs.js:1106
+#, fuzzy
+msgid "Disable Activities Button in panel"
+msgstr "Inhabilita la cantonada sensible d'activitats"
+
+#: prefs.js:1136
+#, fuzzy
+msgid "Dash to Panel currently enabled!"
+msgstr "Paràmetres del «Dash to Panel»"
+
+#: prefs.js:1136
+#, fuzzy
+msgid "Disable Dash to Panel for this feature to work."
+msgstr "Desactiva el guió al tauler perquè aquesta característica funcioni."
+
+#: prefs.js:1137
+#, fuzzy
+msgid "Dash to Panel extension not running!"
+msgstr "Paràmetres del «Dash to Panel»"
+
+#: prefs.js:1137
+#, fuzzy
+msgid "Enable Dash to Panel for this feature to work."
+msgstr "Activa el guió al tauler perquè funcioni aquesta característica."
+
+#: prefs.js:1156
+#, fuzzy
+msgid "Position in Dash to Panel"
+msgstr "Posició del botó del menú al quadre"
+
+#: prefs.js:1156
+#, fuzzy
+msgid "Position in Main Panel"
+msgstr "Posició del botó del menú al quadre"
+
+#: prefs.js:1163
+msgid "Left"
+msgstr "Esquerra"
+
+#: prefs.js:1164
+#, fuzzy
+msgid "Position Arc Menu on the Left side of Dash to Panel"
+msgstr "Posició del menú Arc al costat esquerre del Dash al plafó"
+
+#: prefs.js:1165
+#, fuzzy
+msgid "Position Arc Menu on the Left side of the Main Panel"
+msgstr "Posició del menú Arc al costat esquerre del plafó principal"
+
+#: prefs.js:1168
+msgid "Center"
+msgstr "Central"
+
+#: prefs.js:1170
+#, fuzzy
+msgid "Position Arc Menu in the Center of Dash to Panel"
+msgstr "Col·loca el menú Arc al centre del guió al plafó"
+
+#: prefs.js:1171
+#, fuzzy
+msgid "Position Arc Menu in the Center of the Main Panel"
+msgstr "Posició del menú Arc al centre del plafó principal"
+
+#: prefs.js:1174
+msgid "Right"
+msgstr "Dreta"
+
+#: prefs.js:1176
+#, fuzzy
+msgid "Position Arc Menu on the Right side of Dash to Panel"
+msgstr "Col·loca el menú Arc al costat dret del Dash al plafó"
+
+#: prefs.js:1177
+#, fuzzy
+msgid "Position Arc Menu on the Right side of the Main Panel"
+msgstr "Col·loca el menú Arc al costat dret del plafó principal"
+
+#: prefs.js:1218
+#, fuzzy
+msgid "Menu Alignment to Button"
+msgstr "Alineació del menú al botó"
+
+#: prefs.js:1229
+#, fuzzy
+msgid "Adjust Arc Menu's menu alignment relative to Arc Menu's icon"
+msgstr "Ajusta l'alineació del menú Arc relativa a la icona del menú Arc"
+
+#: prefs.js:1242
+msgid "Display on all monitors when using Dash to Panel"
+msgstr "Mostra a tots els monitors usant «Dash to Panel»"
+
+#: prefs.js:1250
+#, fuzzy
+msgid "Display Arc Menu on all monitors when using Dash to Panel"
+msgstr "Mostra a tots els monitors usant «Dash to Panel»"
+
+#: prefs.js:1304
+#, fuzzy
+msgid "Activities Hot Corner Action"
+msgstr "Inhabilita la cantonada sensible d'activitats"
+
+#: prefs.js:1311
+#, fuzzy
+msgid "Choose the action of the Activities Hot Corner"
+msgstr "Trieu l'acció de la cantonada activa de les activitats"
+
+#: prefs.js:1313
+#, fuzzy
+msgid "GNOME Default"
+msgstr "Predeterminat del GNOME"
+
+#: prefs.js:1314
+#, fuzzy
+msgid "Disabled"
+msgstr "Deshabilitada"
+
+#: prefs.js:1315
+#, fuzzy
+msgid "Toggle Arc Menu"
+msgstr "Quant a l'Arc a Gitlab"
+
+#: prefs.js:1316
+msgid "Custom"
+msgstr "Personalitzada"
+
+#: prefs.js:1322
+#, fuzzy
+msgid "Custom Activities Hot Corner Action"
+msgstr "Inhabilita la cantonada sensible d'activitats"
+
+#: prefs.js:1322
+#, fuzzy
+msgid "Choose from a list of preset commands or use your own terminal command"
+msgstr ""
+"Trieu una llista d'ordres predefinides o utilitzeu la vostra pròpia ordre de"
+" terminal"
+
+#: prefs.js:1332
+#, fuzzy
+msgid "Preset commands"
+msgstr "Ordres predefinides"
+
+#: prefs.js:1338
+#, fuzzy
+msgid "Choose from a list of preset Activities Hot Corner commands"
+msgstr ""
+"Trieu entre una llista de preconfiguracions d'ordres de la cantonada activa "
+"de les activitats"
+
+#: prefs.js:1342
+#, fuzzy
+msgid "Show all Applications"
+msgstr "Aplicacions"
+
+#: prefs.js:1343
+#, fuzzy
+msgid "GNOME Terminal"
+msgstr "Terminal"
+
+#: prefs.js:1344
+#, fuzzy
+msgid "GNOME System Monitor"
+msgstr "Monitor del sistema del GNOME"
+
+#: prefs.js:1345
+#, fuzzy
+msgid "GNOME Calculator"
+msgstr "Calculadora del GNOME"
+
+#: prefs.js:1346
+#, fuzzy
+msgid "GNOME gedit"
+msgstr "GNOME gedit"
+
+#: prefs.js:1347
+#, fuzzy
+msgid "GNOME Screenshot"
+msgstr "Captura de pantalla del GNOME"
+
+#: prefs.js:1348
+#, fuzzy
+msgid "GNOME Weather"
+msgstr "El butlletí meteorològic per al GNOME"
+
+#: prefs.js:1381
+#, fuzzy
+msgid "Terminal Command"
+msgstr "Ordre del terminal:"
+
+#: prefs.js:1387
+#, fuzzy
+msgid "Set a custom terminal command to launch on active hot corner"
+msgstr ""
+"Estableix una ordre de terminal personalitzada per iniciar en la cantonada "
+"activa en calent"
+
+#: prefs.js:1407 prefs.js:1589 prefs.js:2376 prefs.js:2774 prefs.js:2993
+#: prefs.js:3577
+msgid "Apply"
+msgstr "Aplica"
+
+#: prefs.js:1409
+#, fuzzy
+msgid "Apply changes and set new hot corner action"
+msgstr "Aplica els canvis i estableix una nova acció de cantonada calenta"
+
+#: prefs.js:1472
+#, fuzzy
+msgid "Set Custom Hotkey"
+msgstr "Estableix tecla de drecera"
+
+#: prefs.js:1481
+msgid "Press a key"
+msgstr "Premeu una tecla"
+
+#: prefs.js:1506
+msgid "Modifiers"
+msgstr "Modificadors"
+
+#: prefs.js:1511
+msgid "Ctrl"
+msgstr "Control"
+
+#: prefs.js:1516
+msgid "Super"
+msgstr "Súper"
+
+#: prefs.js:1520
+msgid "Shift"
+msgstr "Maj"
+
+#: prefs.js:1524
+msgid "Alt"
+msgstr "Alt"
+
+#: prefs.js:1633 prefs.js:2014
+#, fuzzy
+msgid "Arc Menu Icon Settings"
+msgstr "Paràmetres de l'Arc Menu"
+
+#: prefs.js:1641
+#, fuzzy
+msgid "Arc Menu Icon Appearance"
+msgstr "Personalitza l'aparença del menú de l'Arc"
+
+#: prefs.js:1647
+msgid "Icon"
+msgstr "Icona"
+
+#: prefs.js:1648
+msgid "Text"
+msgstr "Text"
+
+#: prefs.js:1649
+msgid "Icon and Text"
+msgstr "Icona i text"
+
+#: prefs.js:1650
+msgid "Text and Icon"
+msgstr "Text i icones"
+
+#: prefs.js:1671
+#, fuzzy
+msgid "Arc Menu Icon Text"
+msgstr "Icona de l'Arc Menu"
+
+#: prefs.js:1695
+#, fuzzy
+msgid "Arrow beside Arc Menu Icon"
+msgstr "Icona de l'Arc Menu"
+
+#: prefs.js:1715
+msgid "Arc Menu Icon"
+msgstr "Icona de l'Arc Menu"
+
+#: prefs.js:1771
+#, fuzzy
+msgid "Browse for a custom icon"
+msgstr "Navega per una icona personalitzada"
+
+#: prefs.js:1809
+#, fuzzy
+msgid "Icon Size"
+msgstr "Mida de les icones"
+
+#: prefs.js:1841
+#, fuzzy
+msgid "Icon Padding"
+msgstr "Separació de la icona"
+
+#: prefs.js:1873
+#, fuzzy
+msgid "Icon Color"
+msgstr "Color del contorn"
+
+#: prefs.js:1894
+#, fuzzy
+msgid "Active Icon Color"
+msgstr "Color de la icona activa"
+
+#: prefs.js:1914
+#, fuzzy
+msgid "Icon color options will only work with files ending with \"-symbolic.svg\""
+msgstr ""
+"Les opcions de color de la icona només funcionaran amb fitxers que acabin "
+"amb «-symbolic.svg»"
+
+#: prefs.js:1927 prefs.js:2744 prefs.js:3532
+msgid "Reset"
+msgstr "Reinicia"
+
+#: prefs.js:1978
+msgid "System Icon"
+msgstr "Icona del sistema"
+
+#: prefs.js:1981
+msgid "Custom Icon"
+msgstr "Icona personalitzada"
+
+#: prefs.js:1994
+msgid "Appearance"
+msgstr "Aparença"
+
+#: prefs.js:2022
+#, fuzzy
+msgid "Customize Arc Menu's Icon"
+msgstr "Personalitza l'aparença del menú de l'Arc"
+
+#: prefs.js:2042 prefs.js:2440
+msgid "Customize Arc Menu Appearance"
+msgstr "Personalitza l'aparença del menú de l'Arc"
+
+#: prefs.js:2050
+#, fuzzy
+msgid "Customize various elements of Arc Menu"
+msgstr "Personalitza diversos elements del menú Arc"
+
+#: prefs.js:2095 prefs.js:3139
+msgid "Override Arc Menu Theme"
+msgstr "Sobreescriu el tema del menú de l'Arc"
+
+#: prefs.js:2103
+#, fuzzy
+msgid "Create and manage your own custom themes for Arc Menu"
+msgstr ""
+"Creeu i gestioneu els vostres propis temes personalitzats per al menú Arc"
+
+#: prefs.js:2141
+#, fuzzy
+msgid "Override the shell theme for Arc Menu only"
+msgstr "Sobreescriu només el tema de l'intèrpret d'ordres per al menú Arc"
+
+#: prefs.js:2159
+#, fuzzy
+msgid "Current Color Theme"
+msgstr "Tecla de drecera actual"
+
+#: prefs.js:2184
+#, fuzzy
+msgid "Menu Layout"
+msgstr "Disposició de l'Arc Menu"
+
+#: prefs.js:2192
+#, fuzzy
+msgid "Choose from a variety of menu layouts"
+msgstr "Trieu entre una varietat de disposicions de menú"
+
+#: prefs.js:2213
+#, fuzzy
+msgid "Enable the selection of different menu layouts"
+msgstr "Habilita la selecció de diferents disposicions de menú"
+
+#: prefs.js:2250
+msgid "Current Layout"
+msgstr "Disposició actual"
+
+#: prefs.js:2280
+#, fuzzy
+msgid "Tweaks for the current menu layout"
+msgstr "Text pel botó del menú"
+
+#: prefs.js:2343
+msgid "Menu style chooser"
+msgstr "Selector de l'estil del menú"
+
+#: prefs.js:2352
+msgid "Arc Menu Layout"
+msgstr "Disposició de l'Arc Menu"
+
+#: prefs.js:2448
+#, fuzzy
+msgid "General Settings"
+msgstr "Arranjament general"
+
+#: prefs.js:2462
+msgid "Menu Height"
+msgstr "Alçada del menú"
+
+#: prefs.js:2476
+#, fuzzy
+msgid "Adjust the menu height"
+msgstr "Ajusta l'alçada del menú"
+
+#: prefs.js:2476 prefs.js:2504 prefs.js:2530 prefs.js:2590 prefs.js:2612
+#: prefs.js:2634 prefs.js:2667
+#, fuzzy
+msgid "Certain menu layouts only"
+msgstr "Determinades disposicions de menú només"
+
+#: prefs.js:2496
+msgid "Left-Panel Width"
+msgstr "Amplada del quadre esquerre"
+
+#: prefs.js:2504
+#, fuzzy
+msgid "Adjust the left-panel width"
+msgstr "Amplada del quadre esquerre"
+
+#: prefs.js:2522
+#, fuzzy
+msgid "Right-Panel Width"
+msgstr "Amplada del quadre esquerre"
+
+#: prefs.js:2530
+#, fuzzy
+msgid "Adjust the right-panel width"
+msgstr "Ajusta l'amplada del plafó dret"
+
+#: prefs.js:2572
+#, fuzzy
+msgid "Miscellaneous"
+msgstr "Miscel·lània"
+
+#: prefs.js:2582
+#, fuzzy
+msgid "Large Application Icons"
+msgstr "Aplicacions"
+
+#: prefs.js:2590
+#, fuzzy
+msgid "Enable large application icons"
+msgstr "Habilita les icones grans de les aplicacions"
+
+#: prefs.js:2604
+#, fuzzy
+msgid "Category Sub Menus"
+msgstr "Submenús de categoria"
+
+#: prefs.js:2612
+#, fuzzy
+msgid "Show nested menus in categories"
+msgstr "Mostra els menús niats en categories"
+
+#: prefs.js:2626
+#, fuzzy
+msgid "Disable Category Arrows"
+msgstr "Desactiva les fletxes de categoria"
+
+#: prefs.js:2634
+#, fuzzy
+msgid "Disable the arrow on category menu items"
+msgstr "Desactiva la fletxa als elements de menú de categoria"
+
+#: prefs.js:2650
+#, fuzzy
+msgid "Separator Settings"
+msgstr "Importa els paràmetres"
+
+#: prefs.js:2659 prefs.js:3488
+msgid "Enable Vertical Separator"
+msgstr "Habilita el separador vertical"
+
+#: prefs.js:2667
+#, fuzzy
+msgid "Enable a Vertical Separator"
+msgstr "Habilita el separador vertical"
+
+#: prefs.js:2682 prefs.js:3509
+msgid "Separator Color"
+msgstr "Color del separador"
+
+#: prefs.js:2690
+#, fuzzy
+msgid "Change the color of all separators"
+msgstr "Canvia el color de tots els separadors"
+
+#: prefs.js:2710
+#, fuzzy
+msgid "Fine Tune"
+msgstr "Tune fi"
+
+#: prefs.js:2718
+#, fuzzy
+msgid "Gap Adjustment"
+msgstr "Ajust de la separació"
+
+#: prefs.js:2728
+#, fuzzy
+msgid ""
+"Offset menu placement by 1px\n"
+"Useful if a gap or overlap is visible"
+msgstr ""
+"Posició del menú de desplaçament 1px Útil si un espai o solapament és "
+"visible"
+
+#: prefs.js:2815
+#, fuzzy
+msgid "Color Theme Name"
+msgstr "Nom del tema del color"
+
+#: prefs.js:2822
+#, fuzzy
+msgid "Name:"
+msgstr "Nom:"
+
+#: prefs.js:2847
+#, fuzzy
+msgid "Save Theme"
+msgstr "Desa el tema"
+
+#: prefs.js:2872
+#, fuzzy
+msgid "Select Themes to Import"
+msgstr "Seleccioneu els temes a importar"
+
+#: prefs.js:2872
+#, fuzzy
+msgid "Select Themes to Export"
+msgstr "Seleccioneu els temes a exportar"
+
+#: prefs.js:2890
+#, fuzzy
+msgid "Import"
+msgstr "Importa el repositori"
+
+#: prefs.js:2890
+#, fuzzy
+msgid "Export"
+msgstr "Exporta al fitxer"
+
+#: prefs.js:2921
+#, fuzzy
+msgid "Select All"
+msgstr "Selec. tot"
+
+#: prefs.js:2978
+#, fuzzy
+msgid "Manage Themes"
+msgstr "Gestió dels temes"
+
+#: prefs.js:3152
+#, fuzzy
+msgid "Color Theme Presets"
+msgstr "Preconfiguracions del tema de color"
+
+#: prefs.js:3162
+#, fuzzy
+msgid "Save as Preset"
+msgstr "Desa com a predefinit"
+
+#: prefs.js:3246
+#, fuzzy
+msgid "Manage Presets"
+msgstr "Gestiona els predefinits"
+
+#: prefs.js:3275
+msgid "Menu Background Color"
+msgstr "Color de fons del menú"
+
+#: prefs.js:3297
+msgid "Menu Foreground Color"
+msgstr "Color de primer pla del menú"
+
+#: prefs.js:3317
+msgid "Font Size"
+msgstr "Mida de la lletra"
+
+#: prefs.js:3343
+msgid "Border Color"
+msgstr "Color del contorn"
+
+#: prefs.js:3364
+msgid "Border Size"
+msgstr "Mida de la vora"
+
+#: prefs.js:3390
+msgid "Highlighted Item Color"
+msgstr "Color de l'ítem ressaltat"
+
+#: prefs.js:3411
+msgid "Corner Radius"
+msgstr "Radi de la cantonada"
+
+#: prefs.js:3437
+msgid "Menu Arrow Size"
+msgstr "Mida de la fletxa del menú"
+
+#: prefs.js:3463
+msgid "Menu Displacement"
+msgstr "Desplaçament del menú"
+
+#: prefs.js:3643 prefs.js:4263
+#, fuzzy
+msgid "Configure Shortcuts"
+msgstr "Configura dreceres"
+
+#: prefs.js:3664
+#, fuzzy
+msgid "Directories"
+msgstr "Directoris"
+
+#: prefs.js:3684
+#, fuzzy
+msgid "Add Default User Directories"
+msgstr "Afegeix directoris d'usuari per defecte"
+
+#: prefs.js:3692
+#, fuzzy
+msgid ""
+"Browse a list of all default User Directories to add to your Directories "
+"Shortcuts"
+msgstr ""
+"Navegueu per una llista de tots els directoris d'usuari per defecte per "
+"afegir a les vostres dreceres de directoris"
+
+#: prefs.js:3731
+#, fuzzy
+msgid "Create a custom shortcut to add to your Directories Shortcuts"
+msgstr ""
+"Crea una drecera personalitzada per afegir a les dreceres de directoris"
+
+#: prefs.js:3756 prefs.js:4014
+#, fuzzy
+msgid "Restore Defaults"
+msgstr "Restaura per defecte"
+
+#: prefs.js:3757
+#, fuzzy
+msgid "Restore the default Directory Shortcuts"
+msgstr "Restaura les dreceres de directori per defecte"
+
+#: prefs.js:3951
+#, fuzzy
+msgid "Browse a list of all applications to add to your Application Shortcuts"
+msgstr ""
+"Navegueu per una llista de totes les aplicacions per afegir-les a les "
+"vostres dreceres d'aplicacions"
+
+#: prefs.js:3990
+#, fuzzy
+msgid "Create a custom shortcut to add to your Application Shortcuts"
+msgstr ""
+"Crea una drecera personalitzada per afegir a les dreceres de les aplicacions"
+
+#: prefs.js:4015
+#, fuzzy
+msgid "Restore the default Application Shortcuts"
+msgstr "Restaura les dreceres predeterminades de les aplicacions"
+
+#: prefs.js:4171
+msgid "Session Buttons"
+msgstr "Botons de sessió"
+
+#: prefs.js:4268 prefs.js:4273
+#, fuzzy
+msgid "Add, Remove, or Modify Arc Menu shortcuts"
+msgstr "Afegeix, suprimeix o modifica les dreceres del menú Arc"
+
+#: prefs.js:4303
+msgid "External Devices"
+msgstr "Dispositius externs"
+
+#: prefs.js:4309
+#, fuzzy
+msgid "Show all connected external devices in Arc Menu"
+msgstr "Mostra tots els dispositius externs connectats al menú Arc"
+
+#: prefs.js:4325
+msgid "Bookmarks"
+msgstr "Marcadors"
+
+#: prefs.js:4331
+#, fuzzy
+msgid "Show all Nautilus bookmarks in Arc Menu"
+msgstr "Mostra tots els marcadors del Nautilus al menú Arc"
+
+#: prefs.js:4349
+msgid "Misc"
+msgstr "Miscel·lània"
+
+#: prefs.js:4355
+msgid "Export and Import Arc Menu Settings"
+msgstr "Exporta i importa els paràmetres de l'Arc Menu"
+
+#: prefs.js:4362
+msgid ""
+"Importing settings from file may replace ALL saved settings.\n"
+"This includes all saved pinned apps."
+msgstr ""
+"La importació de la configuració des d'un fitxer pot substituir totes les "
+"configuracions desades.\nAixò inclou totes les aplicacions ancorades desades."
+
+#: prefs.js:4371
+msgid "Import from File"
+msgstr "Importa des del fitxer"
+
+#: prefs.js:4374
+msgid "Import Arc Menu settings from a file"
+msgstr "Importa els paràmetres de l'Arc Menu des d'un fitxer"
+
+#: prefs.js:4378
+msgid "Import settings"
+msgstr "Importa els paràmetres"
+
+#: prefs.js:4407
+msgid "Export to File"
+msgstr "Exporta al fitxer"
+
+#: prefs.js:4410
+msgid "Export and save all your Arc Menu settings to a file"
+msgstr "Export i desa els paràmetres de l'Arc Menu a un fitxer"
+
+#: prefs.js:4415
+msgid "Export settings"
+msgstr "Exporta els paràmetres"
+
+#: prefs.js:4446
+msgid "Color Theme Presets - Export/Import"
+msgstr "Preconfiguracions del tema de color - Exporta/Importa"
+
+#: prefs.js:4465
+#, fuzzy
+msgid ""
+"Imported theme presets are located on the Appearance Tab\n"
+"in Override Arc Menu Theme"
+msgstr ""
+"Els predefinits del tema importats es troben a la pestanya Aparença a "
+"Sobreescriu el tema del menú Arc"
+
+#: prefs.js:4476 prefs.js:4483
+#, fuzzy
+msgid "Import Theme Preset"
+msgstr "Importa el valor predefinit del tema"
+
+#: prefs.js:4479
+#, fuzzy
+msgid "Import Arc Menu Theme Presets from a file"
+msgstr "Importa els predefinits del tema del menú Arc des d'un fitxer"
+
+#: prefs.js:4520 prefs.js:4532
+#, fuzzy
+msgid "Export Theme Preset"
+msgstr "Exporta el valor predefinit del tema"
+
+#: prefs.js:4523
+#, fuzzy
+msgid "Export and save your Arc Menu Theme Presets to a file"
+msgstr "Export i importa els paràmetres de l'Arc Menu"
+
+#: prefs.js:4597
+msgid "About"
+msgstr "Quant a"
+
+#: prefs.js:4603
+msgid "Development"
+msgstr "Desenvolupament"
+
+#: prefs.js:4634
+msgid "Version: "
+msgstr "Versió: "
+
+#: prefs.js:4638
+#, fuzzy
+msgid "A Traditional Application Menu for GNOME"
+msgstr "Un menú d'aplicacions tradicionals per al GNOME"
+
+#: prefs.js:4642
+msgid "GitLab Page"
+msgstr "Pàgina del GitLab"
